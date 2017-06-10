@@ -1,0 +1,41 @@
+Trial,Item_Number,Condition,Type,Sentence,Question,Literal_Answer,List
+1,3,test,active_implausible,The truck drove the man.,Did the man drive something/someone?,No,3
+2,7,test,active_implausible,The saw sharpened the father.,Did the saw sharpen something/someone?,Yes,3
+3,11,test,active_implausible,The diamond lost the woman.,Did the diamond lose something/someone?,Yes,3
+4,15,test,active_implausible,The water sipped the grandson.,Did the water sip something/someone?,Yes,3
+5,19,test,active_implausible,The candle lit the wife.,Did the wife light something/someone?,No,3
+6,2,filler_control,active_plausible,The plumber bought the watch.,Did the plumber buy something/someone?,Yes,3
+7,6,filler_control,active_plausible,The daughter folded the blanket.,Did the blanket fold something/someone?,No,3
+8,10,filler_control,active_plausible,The grandfather broke the bowl.,Did the bowl break something/someone?,No,3
+9,14,filler_control,active_plausible,The sister closed the window.,Did the window close something/someone?,No,3
+10,18,filler_control,active_plausible,The uncle sailed the boat.,Did the uncle sail something/someone?,Yes,3
+11,1,test,passive_implausible,The girl was kicked by the ball.,Did the girl kick something/someone?,No,3
+12,5,test,passive_implausible,The mother was set by the table.,Did the mother set something/someone?,No,3
+13,9,test,passive_implausible,The boy was eaten by the pizza.,Did the pizza eat something/someone?,Yes,3
+14,13,test,passive_implausible,The electrician was stolen by the hammer.,Did the hammer steal something/someone?,Yes,3
+15,17,test,passive_implausible,The aunt was purchased by the book.,Did the aunt purchase something/someone?,No,3
+16,4,filler_control,passive_plausible,The stamp was licked by the secretary.,Did the secretary lick something/someone?,Yes,3
+17,8,filler_control,passive_plausible,The door was opened by the niece.,Did the door open something/someone?,No,3
+18,12,filler_control,passive_plausible,The oven was cleaned by the grandmother.,Did the oven clean something/someone?,No,3
+19,16,filler_control,passive_plausible,The train was boarded by the granddaughter.,Did the granddaughter board something/someone?,Yes,3
+20,20,filler_control,passive_plausible,The letter was written by the husband.,Did the husband write something/someone?,Yes,3
+21,3,test,DO_implausible,The uncle sold the truck the father.,Did the father receive something/someone?,No,3
+22,7,test,DO_implausible,The daughter passed the bowl the mother.,Did the bowl receive something/someone?,Yes,3
+23,11,test,DO_implausible,The nephew mailed the postcard the aunt.,Did the postcard receive something/someone?,Yes,3
+24,15,test,DO_implausible,The car dealer leased the SUV the plumber.,Did the SUV receive something/someone?,Yes,3
+25,19,test,DO_implausible,The bartender handed the drink the lady.,Did the lady receive something/someone?,No,3
+26,2,filler_control,DO_plausible,The mother gave the daughter the candle.,Did the daughter receive something/someone?,Yes,3
+27,6,filler_control,DO_plausible,The girl tossed the boy the apple.,Did the apple receive something/someone?,No,3
+28,10,filler_control,DO_plausible,The nanny threw the child the toy.,Did the toy receive something/someone?,No,3
+29,14,filler_control,DO_plausible,The janitor lent the teacher the mop.,Did the mop receive something/someone?,No,3
+30,18,filler_control,DO_plausible,The videostore rented the customer the DVD.,Did the customer receive something/someone?,Yes,3
+31,1,test,PO_implausible,The sister mailed the niece to the letter.,Did the niece receive something/someone?,No,3
+32,5,test,PO_implausible,The sailing club leased the man to the boat.,Did the man receive something/someone?,No,3
+33,9,test,PO_implausible,The boy handed the girl to the pencil.,Did the pencil receive something/someone?,Yes,3
+34,13,test,PO_implausible,The shop sold the student to the bike.,Did the bike receive something/someone?,Yes,3
+35,17,test,PO_implausible,The quarterback passed the receiver to the ball.,Did the receiver receive something/someone?,No,3
+36,4,filler_control,PO_plausible,The contractor lent the saw to the homeowner.,Did the homeowner receive something/someone?,Yes,3
+37,8,filler_control,PO_plausible,The scuba instructor rented the equipment to the tourist.,Did the equipment receive something/someone?,No,3
+38,12,filler_control,PO_plausible,The father gave the car to the son.,Did the car receive something/someone?,No,3
+39,16,filler_control,PO_plausible,The host tossed the microphone to the contestant.,Did the contestant receive something/someone?,Yes,3
+40,20,filler_control,PO_plausible,The magician threw the hat to the assistant.,Did the assistant receive something/someone?,Yes,3
