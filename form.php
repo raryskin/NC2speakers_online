@@ -2,16 +2,19 @@
 
 /*
 
-05/23/2017 - Editing to randomly assign participants to different lists and put 3 filler trials first
-05/11/2017 - Taking Zach's old code and making it into a  one-page survey to test Noisy Channel sentences. I don't know PHP so this should get weird. Gonna leave a lot of Zach's stuff commented for now so I know what's going on.
+06/10/2017 Starting to write code for NC2Speaker
 
 GETS DATA FROM
-"noisy_scz_lists" folder which contains:
-noisy_scz_fillers.csv
-noisy_scz_list1.csv
-noisy_scz_list2.csv
-noisy_scz_list3.csv
-noisy_scz_list4.csv
+"NC2speaker_lists" folder which contains:
+
+NC2speaker_list1.csv
+NC2speaker_list2.csv
+NC2speaker_list3.csv
+NC2speaker_list4.csv
+NC2speaker_list5.csv
+NC2speaker_list6.csv
+NC2speaker_list7.csv
+NC2speaker_list8.csv
 
 SENDS DATA TO
 done.php
@@ -23,17 +26,15 @@ Rachel Ryskin
 // Assigning random subject ID
 	$subjID = mt_rand().mt_rand();
 	//echo $subjID;
-	$uniqueID = $_POST['uniqueID'];
-	//echo $uniqueID;
 
 // Randomly assign participant to counterbalancing list
-	$list = mt_rand(1,4);
+	$list = mt_rand(1,8);
 	//echo 'list: '.$list;
 
 // Read in materials from that list 
 	$materials = array();
 	
-	$materials_file = fopen("noisy_scz_lists/noisy_scz_list".$list.".csv", "r");
+	$materials_file = fopen("NC2speaker_lists/NC2speaker_list".$list.".csv", "r");
 
 	$header = fgetcsv($materials_file);
 	
@@ -44,41 +45,13 @@ Rachel Ryskin
 	fclose($materials_file);
 	
 
-// Read in filler items
-	$fillers = array();
-	
-	$fillers_file = fopen("noisy_scz_lists/noisy_scz_fillers.csv", "r");
-
-	$fillers_header = fgetcsv($fillers_file);
-	
-	while ($f_row = fgetcsv($fillers_file)) {
-		$fillers[] = array_combine($fillers_header, $f_row);
-	}
-
-	fclose($fillers_file);
-
-	shuffle($fillers);
-
-	$first_3_fillers = array_slice($fillers,0,3);
-	//echo 'first3: ' . sizeof($first_3_fillers);
-	//var_dump($first_3_fillers); 
-	$remaining_fillers = array_slice($fillers, 3);
-	$materials2 = array_merge($materials,$remaining_fillers);
-	//echo '**MATERIALS2**: ';
-	//var_dump($materials2) ;
-	
-	//echo $materials[0]{'Condition'};
-	//echo $materials[1]{'Sentence'};
-	
-	//echo $materials[0,1];
-
-	shuffle($materials2);
+	shuffle($materials);
 
 	
 	//Build the big ol' Presentation Matrix
 	//This matrix is basically the "materials" array, but is in the order we want to present the trials
-	$TotalTrials = 80;
-	$PresMatrix = array_merge($first_3_fillers, $materials2);
+	$TotalTrials = 130;
+	$PresMatrix = $materials;
 	//echo '**PRES MATRIX**: '. sizeof($PresMatrix);
 	//var_dump($PresMatrix) ;
 
@@ -94,7 +67,7 @@ Rachel Ryskin
 
 <html>
 <head>
-	<title>Survey</title>
+	<title>Typing task</title>
 	
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	
@@ -105,7 +78,7 @@ Rachel Ryskin
 </head>
 
 <body>
-<form name="Survey1" method="post" action="done.php">	
+<form name="Typing" method="post" action="done.php">	
 <!-- Store time and date -->
 <input type="hidden" name="start_date" value="<?php echo $start_date;?>">
 <input type="hidden" name="start_time" value="<?php echo $start_time;?>">
@@ -122,7 +95,8 @@ Rachel Ryskin
 	</p>
 	
 	<p class= bold> 
-	Please read each sentence, and then answer the question immediately following the sentence by clicking "Yes" or "No." For any given question, if you are not sure about the answer, just make your best guess.
+	<h4>The following sentences are transcriptions of spoken by two speakers, <font color="red">Jason</font> and <font color="blue">Thomas</font>. Some of these sentences may contain errors. Please RETYPE each sentence and fix any errors. It is fine to copy and paste the sentence and then edit it if you see an error.</h4>
+
 	</p>
 	<br />
 	<br />
@@ -142,25 +116,28 @@ for ($TrialNum = 0; $TrialNum < $TotalTrials; ++$TrialNum) {
 		//Inputs that are not based on user input and get passed through to the output						. '">';
 		echo '<input type="hidden" name="TrialNum_'		. $index . '" value="' . $index 	. '">';
 		echo '<input type="hidden" name="subjID" value="' . $subjID . '">';
-		echo '<input type="hidden" name="uniqueID" value="' . $uniqueID . '">';
 		echo '<input type="hidden" name="ItemNum_'	 	. $index . '" value="' . $PresMatrix[$TrialNum]['Item_Number']	. '">';
 		echo '<input type="hidden" name="Condition_'	. $index . '" value="' . $PresMatrix[$TrialNum]['Condition']	. '">';
-		echo '<input type="hidden" name="Type_'		 	. $index . '" value="' . $PresMatrix[$TrialNum]['Type']	. '">';
-		echo '<input type="hidden" name="comp_corr_' . $index . '" value="' . $PresMatrix[$TrialNum]['Literal_Answer']	. '">';
+		echo '<input type="hidden" name="TrialType_'	. $index . '" value="' . $PresMatrix[$TrialNum]['TrialType']	. '">';
+		echo '<input type="hidden" name="SentenceType_'	. $index . '" value="' . $PresMatrix[$TrialNum]['SentenceType']	. '">';
 		echo '<input type="hidden" name="List_' . $index . '" value="' . $PresMatrix[$TrialNum]['List']	. '">';
 		
+		if ($PresMatrix[$TrialNum]['Condition'] == "Speaker_Error") {
+		    $Name = "Jason";
+		    $color = "red";
+		} else {
+		    $Name = "Thomas";
+		    $color = "blue";
+		}
+
+		$Name  = 
 		//The sentence and the comprehension question which get displayed
 		echo '<input type="hidden" name="Sentence_'		 	. $index . '" value="' . $PresMatrix[$TrialNum]['Sentence']	. '">';
-		echo '<div class="sentence">' . $PresMatrix[$TrialNum]['Sentence'] . '</div>';
-		echo '<div class="comp_q">' . $PresMatrix[$TrialNum]['Question'] . '</div>';
-		echo '<input type="hidden" name="Question_'		 	. $index . '" value="' . $PresMatrix[$TrialNum]['Question']	. '">';
+		echo '<div <font color="'.$color.'"> class="sentence">' .$Name.": ". $PresMatrix[$TrialNum]['Sentence'] . '</font></div>';
 		
-		//Possible answers to the comprehension question
-		echo '<div class="answer_choices">';
-			echo '<label><input type="radio" name="comp_resp_' . $index  . '" value= "YES" "' .'></span> YES </span></label>';
-			echo '<label><input type="radio" name="comp_resp_' . $index  . '" value= "NO" "' .'></span> NO </span></label>';
-		echo '</div>';
-
+		//Input box for answers
+		echo '<p><input type="text" name="response_' . $index  . '" size= "200" "' .'/></p>';
+		
 		//echo '<br />';
 		//Page number
 		//echo '<div class="page_number">' . $TrialNum . ' / ' . $TotalTrials . '</div>';
@@ -168,7 +145,6 @@ for ($TrialNum = 0; $TrialNum < $TotalTrials; ++$TrialNum) {
 	echo '</div>';
 	echo '</div>';
 }
-
 
 ?>
 
