@@ -38,7 +38,7 @@ Edited by Rachel Ryskin
 	//Name of the onsets file is the same for all subjects.
 	$onsets_file = 'results/onsets.csv';
 
-	//echo $_POST['Response_130'];
+	$code = $_POST['subjID'];
 	
 	//Open the onsets file
 	$handle = fopen($onsets_file, 'a') or die('Cannot open file: '.$onsets_file);
@@ -80,7 +80,7 @@ Edited by Rachel Ryskin
 	fwrite($handle, 'Condition' . ',');
 	fwrite($handle, 'TrialType' . ',');
 	fwrite($handle, 'SentenceType' . ',');
-	fwrite($handle, 'Response' . ',');
+	fwrite($handle, 'Response');
 	fwrite($handle, PHP_EOL);
 	
 	//Write the data to the file
@@ -120,11 +120,12 @@ Edited by Rachel Ryskin
 	<body>
 		<!--Thank you, your responses have been stored!-->
 		Thank you, your responses have been stored!
+		</br>
 
 	</body>
 </html>
 <?php
 
-	echo "Please enter the following code on Amazon Mechanical Turk: ". substr($SubjID,5)
+	echo "Please enter the following code on Amazon Mechanical Turk: ". substr(strval($code),0,5)
 
 ?>
