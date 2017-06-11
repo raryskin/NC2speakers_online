@@ -8,8 +8,7 @@ The inputs are
 	* Condition
 	* ItemNum
 	* Sentence
-	* Question
-	* Literal Answer
+	* Response
 	* List
 
 Writes the onset information to 'onsets.csv'
@@ -38,6 +37,8 @@ Edited by Rachel Ryskin
 	$end_time = date('H:i:s');			//24hour:minutes:seconds
 	//Name of the onsets file is the same for all subjects.
 	$onsets_file = 'results/onsets.csv';
+
+	//echo $_POST['Response_130'];
 	
 	//Open the onsets file
 	$handle = fopen($onsets_file, 'a') or die('Cannot open file: '.$onsets_file);
@@ -47,8 +48,7 @@ Edited by Rachel Ryskin
 	fwrite($handle, $_POST['start_date'] . ',');
 	fwrite($handle, $_POST['start_time'] . ',');
 	fwrite($handle, $end_date . ',');
-	fwrite($handle, $end_time . ',');
-	fwrite($handle, $_POST['uniqueID']);
+	fwrite($handle, $end_time );
 	fwrite($handle, PHP_EOL);
 	
 	fclose($handle);
@@ -79,14 +79,12 @@ Edited by Rachel Ryskin
 	fwrite($handle, 'ItemNum' . ',');
 	fwrite($handle, 'Condition' . ',');
 	fwrite($handle, 'TrialType' . ',');
-	fwrite($handle, 'Sentence' . ',');
-	fwrite($handle, 'Question' . ',');
-	fwrite($handle, 'Literal_Answer' . ',');
+	fwrite($handle, 'SentenceType' . ',');
 	fwrite($handle, 'Response' . ',');
 	fwrite($handle, PHP_EOL);
 	
 	//Write the data to the file
-	$NumTrials = 80;
+	$NumTrials = 130;
 	for ($trial = 1; $trial <= $NumTrials; ++$trial) {
 		//Determine the field names (fieldName_trial)
 		$field1 = 'subjID';
@@ -94,11 +92,9 @@ Edited by Rachel Ryskin
 		$field3 = 'List_'			. $trial;
 		$field4 = 'ItemNum_'		. $trial;
 		$field5 = 'Condition_'		. $trial;
-		$field6 = 'Type_'			. $trial;
-		$field7 = 'Sentence_'		. $trial;
-		$field8 = 'Question_'		. $trial;
-		$field9 = 'comp_corr_'		. $trial;
-		$field10 = 'comp_resp_'		. $trial;
+		$field6 = 'TrialType_'		. $trial;
+		$field7 = 'SentenceType_'	. $trial;
+		$field8 = 'Response_'		. $trial;
 		
 		//Write results
 		fwrite($handle, $_POST[$field1] . ',');
@@ -108,9 +104,7 @@ Edited by Rachel Ryskin
 		fwrite($handle, $_POST[$field5] . ',');
 		fwrite($handle, $_POST[$field6] . ',');
 		fwrite($handle, $_POST[$field7] . ',');
-		fwrite($handle, $_POST[$field8] . ',');
-		fwrite($handle, $_POST[$field9] . ',');
-		fwrite($handle, $_POST[$field10] . ',');
+		fwrite($handle, $_POST[$field8]);
 		fwrite($handle, PHP_EOL);
 	}
 	
@@ -126,5 +120,11 @@ Edited by Rachel Ryskin
 	<body>
 		<!--Thank you, your responses have been stored!-->
 		Thank you, your responses have been stored!
+
 	</body>
 </html>
+<?php
+
+	echo "Please enter the following code on Amazon Mechanical Turk: ". substr($SubjID,5)
+
+?>

@@ -37,7 +37,7 @@ Rachel Ryskin
 	$materials_file = fopen("NC2speaker_lists/NC2speaker_list".$list.".csv", "r");
 
 	$header = fgetcsv($materials_file);
-	
+	//var_dump($header) ;
 	while ($row = fgetcsv($materials_file)) {
 		$materials[] = array_combine($header, $row);
 	}
@@ -95,11 +95,9 @@ Rachel Ryskin
 	</p>
 	
 	<p class= bold> 
-	<h4>The following sentences are transcriptions of spoken by two speakers, <font color="red">Jason</font> and <font color="blue">Thomas</font>. Some of these sentences may contain errors. Please RETYPE each sentence and fix any errors. It is fine to copy and paste the sentence and then edit it if you see an error.</h4>
+	<h4>The following sentences are transcriptions of sentences spoken by two speakers, <font color="red">Jason</font> and <font color="blue">Thomas</font>. Some of these sentences may contain errors. Please RETYPE each sentence and fix any errors. It is fine to copy and paste the sentence and then edit it if you see an error.</h4>
 
 	</p>
-	<br />
-	<br />
 
 
 <!-- The actual trials -->
@@ -122,21 +120,19 @@ for ($TrialNum = 0; $TrialNum < $TotalTrials; ++$TrialNum) {
 		echo '<input type="hidden" name="SentenceType_'	. $index . '" value="' . $PresMatrix[$TrialNum]['SentenceType']	. '">';
 		echo '<input type="hidden" name="List_' . $index . '" value="' . $PresMatrix[$TrialNum]['List']	. '">';
 		
-		if ($PresMatrix[$TrialNum]['Condition'] == "Speaker_Error") {
+		if (strcmp($PresMatrix[$TrialNum]['Condition'], "Speaker_Error") ) {
 		    $Name = "Jason";
 		    $color = "red";
 		} else {
 		    $Name = "Thomas";
 		    $color = "blue";
 		}
-
-		$Name  = 
 		//The sentence and the comprehension question which get displayed
 		echo '<input type="hidden" name="Sentence_'		 	. $index . '" value="' . $PresMatrix[$TrialNum]['Sentence']	. '">';
-		echo '<div <font color="'.$color.'"> class="sentence">' .$Name.": ". $PresMatrix[$TrialNum]['Sentence'] . '</font></div>';
+		echo '<div class="sentence"><font color="'.$color.'"> ' .$Name.": ". $PresMatrix[$TrialNum]['Sentence'] . '</font></div>';
 		
 		//Input box for answers
-		echo '<p><input type="text" name="response_' . $index  . '" size= "200" "' .'/></p>';
+		echo '<input type="text" name="Response_' . $index  . '" size= "100" "' .'/>';
 		
 		//echo '<br />';
 		//Page number
@@ -153,7 +149,7 @@ for ($TrialNum = 0; $TrialNum < $TotalTrials; ++$TrialNum) {
 	<span>Please press submit to record your responses.</span>
 	<br />
 	<br />
-	<!--Сохранить = Submit-->
+	<!--Submit-->
 	<input name="submit" type="submit" value="Submit">
 </div>
 </div>
