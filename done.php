@@ -53,7 +53,8 @@ Edited by Rachel Ryskin
 	
 	fclose($handle);
 	
-	
+	//echo $_POST['Response_1'];
+	//echo $_POST['Response_130'];
 	
 	//DATA FILE
 	//Name the data file. If it already exists, add a -1, -2, -3, etc to the name
@@ -80,6 +81,7 @@ Edited by Rachel Ryskin
 	fwrite($handle, 'Condition' . ',');
 	fwrite($handle, 'TrialType' . ',');
 	fwrite($handle, 'SentenceType' . ',');
+	fwrite($handle, 'Sentence' . ',');
 	fwrite($handle, 'Response');
 	fwrite($handle, PHP_EOL);
 	
@@ -94,7 +96,8 @@ Edited by Rachel Ryskin
 		$field5 = 'Condition_'		. $trial;
 		$field6 = 'TrialType_'		. $trial;
 		$field7 = 'SentenceType_'	. $trial;
-		$field8 = 'Response_'		. $trial;
+		$field8 = 'Sentence_'		. $trial;
+		$field9 = 'Response_'		. $trial;
 		
 		//Write results
 		fwrite($handle, $_POST[$field1] . ',');
@@ -104,7 +107,8 @@ Edited by Rachel Ryskin
 		fwrite($handle, $_POST[$field5] . ',');
 		fwrite($handle, $_POST[$field6] . ',');
 		fwrite($handle, $_POST[$field7] . ',');
-		fwrite($handle, $_POST[$field8]);
+		fwrite($handle, $_POST[$field8] . ',');
+		fwrite($handle, $_POST[$field9]);
 		fwrite($handle, PHP_EOL);
 	}
 	
