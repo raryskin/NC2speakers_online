@@ -1,0 +1,21 @@
+Item_Number,Condition,TrialType,SentenceType,Sentence,List
+51,Speaker_Error,exposure,deletion,The pirate stole the booty an officer.,7
+52,Speaker_Error,exposure,deletion,The supplier described a scenario the class after explaining basic concepts.,7
+53,Speaker_Error,exposure,deletion,The trainer filled a bag with ice the injured client.,7
+54,Speaker_Error,exposure,deletion,The commissioner wrote a report the chairman.,7
+55,Speaker_Error,exposure,deletion,The paramedic helped an invalid the brick building.,7
+56,Speaker_Error,exposure,deletion,The rioter stapled the sign a bulletin board in the corridor.,7
+57,Speaker_Error,exposure,deletion,The beekeeper selected a honeycomb carefully a hive of swarming bees.,7
+58,Speaker_Error,exposure,insertion,The surgeon called for a nurse to from assist him with the operation.,7
+59,Speaker_Error,exposure,insertion,A socialite was and greeted by the butler with a plate of caviar.,7
+60,Speaker_Error,exposure,insertion,The performer lifted the acrobat onto a her shoulders gracefully.,7
+61,Speaker_Error,exposure,insertion,The presenter was criticized by a legislator for because of his speech impediment.,7
+62,Speaker_Error,exposure,insertion,A bystander was rescued by the fireman to in the nick of time.,7
+63,Speaker_Error,exposure,insertion,The trucker ordered a bartender to bring him onto a beer.,7
+64,Speaker_Error,exposure,insertion,The translator found a car for the ambassador because he or could not speak Lebanese.,7
+65,Speaker_Error,exposure,swap,The colonel was knighted by the queen loyalty of his because.,7
+66,Speaker_Error,exposure,swap,The principal commended a parent for her motivate to ability her child.,7
+67,Speaker_Error,exposure,swap,The Vikings raided a search in village of the warrior.,7
+68,Speaker_Error,exposure,swap,The toddler hugged a teddybear scared because he was.,7
+69,Speaker_Error,exposure,swap,The choreographer found a film starring the musical in the lead.,7
+70,Speaker_Error,exposure,swap,The runner filled a bottle with cold water tap.,7

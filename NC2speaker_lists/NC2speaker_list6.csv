@@ -1,131 +1,1 @@
-Item_Number,Condition,TrialType,SentenceType,Sentence,List
-1,Speaker_noError,test,deletion,The quarterback passed the ball the receiver.,2
-2,Speaker_noError,test,deletion,The patient's condition deteriorated the new medicine.,2
-3,Speaker_noError,test,deletion,The actor handed the script the director.,2
-4,Speaker_noError,test,deletion,The millionaire profited the tax reduction.,2
-5,Speaker_noError,test,deletion,The corrupt politicians profited the bribes.,2
-6,Speaker_noError,test,insertion,The earthquake shattered from the house.,2
-7,Speaker_noError,test,insertion,The bad lighting deteriorated from the woman's eyesight.,2
-8,Speaker_noError,test,insertion,The extra time benefited from the child with a learning disability.,2
-9,Speaker_noError,test,insertion,The hot stove melted from the plastic handle.,2
-10,Speaker_noError,test,insertion,The daughter passed the mother to the bowl.,2
-11,Speaker_noError,test,swap,The watch bought the plumber.,2
-12,Speaker_noError,test,swap,The ball kicked the girl.,2
-13,Speaker_noError,test,swap,The train boarded the granddaughter.,2
-14,Speaker_noError,test,swap,The stamp licked the secretary.,2
-15,Speaker_noError,test,swap,The table set the mother.,2
-16,Speaker_Error,test,deletion,The uncle sold the truck the father.,2
-17,Speaker_Error,test,deletion,The scuba instructor rented the equipment the tourist.,2
-18,Speaker_Error,test,deletion,The player benefited the intense practice.,2
-19,Speaker_Error,test,deletion,The sculpture shattered the fall.,2
-20,Speaker_Error,test,deletion,The janitor lent the mop the teacher.,2
-21,Speaker_Error,test,insertion,The construction noise worsened from the man's hearing.,2
-22,Speaker_Error,test,insertion,The host tossed the contestant to the microphone.,2
-23,Speaker_Error,test,insertion,The long drought deteriorated from the soil.,2
-24,Speaker_Error,test,insertion,The judge gave the athlete to the prize.,2
-25,Speaker_Error,test,insertion,The chemotherapy shrank from the tumor.,2
-26,Speaker_Error,test,swap,The message read the assistant.,2
-27,Speaker_Error,test,swap,The bat swung the player.,2
-28,Speaker_Error,test,swap,The oven cleaned the grandmother.,2
-29,Speaker_Error,test,swap,The saw sharpened the father.,2
-30,Speaker_Error,test,swap,The blanket folded the daughter.,2
-31,Speaker_noError,exposure,deletion,The pirate stole the booty from an officer.,2
-32,Speaker_noError,exposure,deletion,The supplier described a scenario for the class after explaining basic concepts.,2
-33,Speaker_noError,exposure,deletion,The trainer filled a bag with ice for the injured client.,2
-34,Speaker_noError,exposure,deletion,The commissioner wrote a report for the chairman.,2
-35,Speaker_noError,exposure,deletion,The paramedic helped an invalid into the brick building.,2
-36,Speaker_noError,exposure,deletion,The rioter stapled the sign to a bulletin board in the corridor.,2
-37,Speaker_noError,exposure,deletion,The beekeeper selected a honeycomb carefully from a hive of swarming bees.,2
-38,Speaker_noError,exposure,insertion,The surgeon called for a nurse to assist him with the operation.,2
-39,Speaker_noError,exposure,insertion,A socialite was greeted by the butler with a plate of caviar.,2
-40,Speaker_noError,exposure,insertion,The performer lifted the acrobat onto her shoulders gracefully.,2
-41,Speaker_noError,exposure,insertion,The presenter was criticized by a legislator because of his speech impediment.,2
-42,Speaker_noError,exposure,insertion,A bystander was rescued by the fireman in the nick of time.,2
-43,Speaker_noError,exposure,insertion,The trucker ordered a bartender to bring him a beer.,2
-44,Speaker_noError,exposure,insertion,The translator found a car for the ambassador because he could not speak Lebanese.,2
-45,Speaker_noError,exposure,swap,The colonel was knighted by the queen because of his loyalty.,2
-46,Speaker_noError,exposure,swap,The principal commended a parent for her ability to motivate her child.,2
-47,Speaker_noError,exposure,swap,The Vikings raided a village in search of the warrior.,2
-48,Speaker_noError,exposure,swap,The toddler hugged a teddybear because he was scared.,2
-49,Speaker_noError,exposure,swap,The choreographer found a film starring the lead in the musical.,2
-50,Speaker_noError,exposure,swap,The runner filled a bottle with cold tap water.,2
-51,Speaker_Error,exposure,deletion,The dealer shuffled deck before distributing the cards.,2
-52,Speaker_Error,exposure,deletion,The spy monitored a baroness several months.,2
-53,Speaker_Error,exposure,deletion,The terrorist assassinated the newsman cold blood.,2
-54,Speaker_Error,exposure,deletion,The witch was hanged an executioner promptly at dawn.,2
-55,Speaker_Error,exposure,deletion,An analyst angered the economist after he interrupted phone conference five times.,2
-56,Speaker_Error,exposure,deletion,The intern begged a programmer to edit the program because it due the next day.,2
-57,Speaker_Error,exposure,insertion,A legislator lied to the consultant about for a new bill.,2
-58,Speaker_Error,exposure,insertion,The insurer paid the victim because while his car had been destroyed.,2
-59,Speaker_Error,exposure,insertion,The pianist met with a beautician to about prepare for her recital.,2
-60,Speaker_Error,exposure,insertion,The acrobat respected after the ballerina because she went to Juilliard.,2
-61,Speaker_Error,exposure,insertion,The archivist found a document dating back to was the Nixon administration.,2
-62,Speaker_Error,exposure,insertion,The sculptor brought a shell from with the ocean floor.,2
-63,Speaker_Error,exposure,swap,The cameraman was paid to follow a bridesmaid down the camera with his aisle.,2
-64,Speaker_Error,exposure,swap,The defendant misled a juryman when she worked that she said for the government.,2
-65,Speaker_Error,exposure,swap,The robot killed a scientist from escaping before the laboratory.,2
-66,Speaker_Error,exposure,swap,The preacher irritated a parishioner because she used was to shorter sermons.,2
-67,Speaker_Error,exposure,swap,The playwright selected the resemblance because of his understudy to the lead actor.,2
-68,Speaker_Error,exposure,swap,The status conducted an inquiry into the professor of the file.,2
-69,Speaker_Error,exposure,deletion,The spokesman toasted a muffin for the agent the early morning appointment.,2
-70,Speaker_Error,exposure,swap,The advisee opened a file for the visitor some with trepidation.,2
-71,Speaker_Error,filler,filler,The woman saved a seat for her husband.,2
-72,Speaker_Error,filler,filler,The waitress fixed a sandwich for the customer.,2
-73,Speaker_Error,filler,filler,The man ordered some champagne for his girlfriend.,2
-74,Speaker_Error,filler,filler,The woman was held by the man.,2
-75,Speaker_Error,filler,filler,The journalist was ignored by the politician at the press conference.,2
-76,Speaker_Error,filler,filler,The small plant grew into a huge tree.,2
-77,Speaker_Error,filler,filler,The man was nudged by the woman.,2
-78,Speaker_Error,filler,filler,The grocery store didn't have any more whole wheat bread in stock.,2
-79,Speaker_Error,filler,filler,A magnificent diamond sparkled on the prince's finger.,2
-80,Speaker_Error,filler,filler,The charity built a house for the hurricane victim.,2
-81,Speaker_Error,filler,filler,The church built a shelter for the homeless.,2
-82,Speaker_Error,filler,filler,The architect was commissioned by the large company.,2
-83,Speaker_Error,filler,filler,The boyfriend obtained some concert tickets for his girlfriend.,2
-84,Speaker_Error,filler,filler,The cook baked a cake for Lucy.,2
-85,Speaker_Error,filler,filler,The dental technician accepted the job at the new office even though it didn't pay much.,2
-86,Speaker_Error,filler,filler,The soccer mom was offended by the journalist because he asked rude questions.,2
-87,Speaker_Error,filler,filler,The lab-assistant fetched a test-tube for the scientist.,2
-88,Speaker_Error,filler,filler,The sergeant assigned a locker to the private after the meeting.,2
-89,Speaker_Error,filler,filler,The jewelry-maker was commissioned by the millionaire.,2
-90,Speaker_Error,filler,filler,The apple was placed on the teacher's desk.,2
-91,Speaker_Error,filler,filler,The nurse poured some water for the old man.,2
-92,Speaker_Error,filler,filler,The bartender poured a drink for the customer.,2
-93,Speaker_Error,filler,filler,The moose's head was mounted on the wall.,2
-94,Speaker_Error,filler,filler,The mobile was hanging from the ceiling.,2
-95,Speaker_Error,filler,filler,The coach encouraged the team to score in the last quarter.,2
-96,Speaker_Error,filler,filler,An old woman lives in the woods.,2
-97,Speaker_Error,filler,filler,The submarine captain accepted the mission.,2
-98,Speaker_Error,filler,filler,A ghost appeared above the bed.,2
-99,Speaker_Error,filler,filler,The student spent all night studying and aced the test.,2
-100,Speaker_Error,filler,filler,The chef cleaned the ladle before he stirred the soup.,2
-101,Speaker_Error,filler,filler,The helicopter hovered over the water.,2
-102,Speaker_noError,filler,filler,Some of the woman's cats were scared of dogs but most of them weren't.,2
-103,Speaker_noError,filler,filler,The first-graders liked their teacher because she used games to teach them how to read.,2
-104,Speaker_noError,filler,filler,The grandmother made a quilt for her granddaughter.,2
-105,Speaker_noError,filler,filler,The travel agent reserved a flight for the businessman.,2
-106,Speaker_noError,filler,filler,A cat jumped onto the table.,2
-107,Speaker_noError,filler,filler,The apprentice fetched a hammer for the carpenter.,2
-108,Speaker_noError,filler,filler,The painting hung on the bedroom wall.,2
-109,Speaker_noError,filler,filler,Some treasure was found in the cave.,2
-110,Speaker_noError,filler,filler,The name was engraved on the ring.,2
-111,Speaker_noError,filler,filler,The cheerleader was treated by a doctor who had been watching the game.,2
-112,Speaker_noError,filler,filler,The baby crawled into the hallway.,2
-113,Speaker_noError,filler,filler,The train arrived at the station.,2
-114,Speaker_noError,filler,filler,The seamstress made a dress for her client.,2
-115,Speaker_noError,filler,filler,The father bought a bicycle for his son.,2
-116,Speaker_noError,filler,filler,The hiker was rescued by a ranger who had been on patrol.,2
-117,Speaker_noError,filler,filler,The ballet instructor encouraged her students to practice more.,2
-118,Speaker_noError,filler,filler,The lawyer was insulted by the judge.,2
-119,Speaker_noError,filler,filler,A flowering plant is on the window sill.,2
-120,Speaker_noError,filler,filler,The secretary ordered some office supplies for the boss.,2
-121,Speaker_noError,filler,filler,The runner trained for months before the marathon.,2
-122,Speaker_noError,filler,filler,The TA was criticized by the professor.,2
-123,Speaker_noError,filler,filler,The athlete was treated by a nurse who had been listening to music.,2
-124,Speaker_noError,filler,filler,The marathoner ran into the stadium.,2
-125,Speaker_noError,filler,filler,The receptionist saved some cake for her co-worker.,2
-126,Speaker_noError,filler,filler,The dog trainer taught the puppy to roll over.,2
-127,Speaker_noError,filler,filler,The astronaut accepted the mission.,2
-128,Speaker_noError,filler,filler,The girl was pushed by the boy.,2
-129,Speaker_noError,filler,filler,The defendant's name was written on the check.,2
-130,Speaker_noError,filler,filler,The bank robber spent thirty minutes cracking the code for the safe.,2
+Item_Number,Condition,TrialType,SentenceType,Sentence,List1,Speaker_noError,test,deletion,The quarterback passed the ball the receiver.,62,Speaker_noError,test,deletion,The patient's condition deteriorated the new medicine.,63,Speaker_noError,test,deletion,The actor handed the script the director.,64,Speaker_noError,test,deletion,The millionaire profited the tax reduction.,65,Speaker_noError,test,deletion,The corrupt politicians profited the bribes.,66,Speaker_noError,test,insertion,The earthquake shattered from the house.,67,Speaker_noError,test,insertion,The bad lighting deteriorated from the woman's eyesight.,68,Speaker_noError,test,insertion,The extra time benefited from the child with a learning disability.,69,Speaker_noError,test,insertion,The hot stove melted from the plastic handle.,610,Speaker_noError,test,insertion,The daughter passed the mother to the bowl.,611,Speaker_noError,test,swap,The watch bought the plumber.,612,Speaker_noError,test,swap,The ball kicked the girl.,613,Speaker_noError,test,swap,The train boarded the granddaughter.,614,Speaker_noError,test,swap,The stamp licked the secretary.,615,Speaker_noError,test,swap,The table set the mother.,616,Speaker_Error,test,deletion,The uncle sold the truck the father.,617,Speaker_Error,test,deletion,The scuba instructor rented the equipment the tourist.,618,Speaker_Error,test,deletion,The player benefited the intense practice.,619,Speaker_Error,test,deletion,The sculpture shattered the fall.,620,Speaker_Error,test,deletion,The janitor lent the mop the teacher.,621,Speaker_Error,test,insertion,The construction noise worsened from the man's hearing.,622,Speaker_Error,test,insertion,The host tossed the contestant to the microphone.,623,Speaker_Error,test,insertion,The long drought deteriorated from the soil.,624,Speaker_Error,test,insertion,The judge gave the athlete to the prize.,625,Speaker_Error,test,insertion,The chemotherapy shrank from the tumor.,626,Speaker_Error,test,swap,The message read the assistant.,627,Speaker_Error,test,swap,The bat swung the player.,628,Speaker_Error,test,swap,The oven cleaned the grandmother.,629,Speaker_Error,test,swap,The saw sharpened the father.,630,Speaker_Error,test,swap,The blanket folded the daughter.,631,Speaker_noError,exposure,deletion,The pirate stole the booty from an officer.,632,Speaker_noError,exposure,deletion,The supplier described a scenario for the class after explaining basic concepts.,633,Speaker_noError,exposure,deletion,The trainer filled a bag with ice for the injured client.,634,Speaker_noError,exposure,deletion,The commissioner wrote a report for the chairman.,635,Speaker_noError,exposure,deletion,The paramedic helped an invalid into the brick building.,636,Speaker_noError,exposure,deletion,The rioter stapled the sign to a bulletin board in the corridor.,637,Speaker_noError,exposure,deletion,The beekeeper selected a honeycomb carefully from a hive of swarming bees.,638,Speaker_noError,exposure,insertion,The surgeon called for a nurse to assist him with the operation.,639,Speaker_noError,exposure,insertion,A socialite was greeted by the butler with a plate of caviar.,640,Speaker_noError,exposure,insertion,The performer lifted the acrobat onto her shoulders gracefully.,641,Speaker_noError,exposure,insertion,The presenter was criticized by a legislator because of his speech impediment.,642,Speaker_noError,exposure,insertion,A bystander was rescued by the fireman in the nick of time.,643,Speaker_noError,exposure,insertion,The trucker ordered a bartender to bring him a beer.,644,Speaker_noError,exposure,insertion,The translator found a car for the ambassador because he could not speak Lebanese.,645,Speaker_noError,exposure,swap,The colonel was knighted by the queen because of his loyalty.,646,Speaker_noError,exposure,swap,The principal commended a parent for her ability to motivate her child.,647,Speaker_noError,exposure,swap,The Vikings raided a village in search of the warrior.,648,Speaker_noError,exposure,swap,The toddler hugged a teddybear because he was scared.,649,Speaker_noError,exposure,swap,The choreographer found a film starring the lead in the musical.,650,Speaker_noError,exposure,swap,The runner filled a bottle with cold tap water.,651,Speaker_Error,exposure,deletion,The dealer shuffled deck before distributing the cards.,652,Speaker_Error,exposure,deletion,The spy monitored a baroness several months.,653,Speaker_Error,exposure,deletion,The terrorist assassinated the newsman cold blood.,654,Speaker_Error,exposure,deletion,The witch was hanged an executioner promptly at dawn.,655,Speaker_Error,exposure,deletion,An analyst angered the economist after he interrupted phone conference five times.,656,Speaker_Error,exposure,deletion,The intern begged a programmer to edit the program because it due the next day.,657,Speaker_Error,exposure,insertion,A legislator lied to the consultant about for a new bill.,658,Speaker_Error,exposure,insertion,The insurer paid the victim because while his car had been destroyed.,659,Speaker_Error,exposure,insertion,The pianist met with a beautician to about prepare for her recital.,660,Speaker_Error,exposure,insertion,The acrobat respected after the ballerina because she went to Juilliard.,661,Speaker_Error,exposure,insertion,The archivist found a document dating back to was the Nixon administration.,662,Speaker_Error,exposure,insertion,The sculptor brought a shell from with the ocean floor.,663,Speaker_Error,exposure,swap,The cameraman was paid to follow a bridesmaid down the camera with his aisle.,664,Speaker_Error,exposure,swap,The defendant misled a juryman when she worked that she said for the government.,665,Speaker_Error,exposure,swap,The robot killed a scientist from escaping before the laboratory.,666,Speaker_Error,exposure,swap,The preacher irritated a parishioner because she used was to shorter sermons.,667,Speaker_Error,exposure,swap,The playwright selected the resemblance because of his understudy to the lead actor.,668,Speaker_Error,exposure,swap,The status conducted an inquiry into the professor of the file.,669,Speaker_Error,exposure,deletion,The spokesman toasted a muffin for the agent the early morning appointment.,670,Speaker_Error,exposure,swap,The advisee opened a file for the visitor some with trepidation.,671,Speaker_Error,filler,filler,The woman saved a seat for her husband.,672,Speaker_Error,filler,filler,The waitress fixed a sandwich for the customer.,673,Speaker_Error,filler,filler,The man ordered some champagne for his girlfriend.,674,Speaker_Error,filler,filler,The woman was held by the man.,675,Speaker_Error,filler,filler,The journalist was ignored by the politician at the press conference.,676,Speaker_Error,filler,filler,The small plant grew into a huge tree.,677,Speaker_Error,filler,filler,The man was nudged by the woman.,678,Speaker_Error,filler,filler,The grocery store didn't have any more whole wheat bread in stock.,679,Speaker_Error,filler,filler,A magnificent diamond sparkled on the prince's finger.,680,Speaker_Error,filler,filler,The charity built a house for the hurricane victim.,681,Speaker_Error,filler,filler,The church built a shelter for the homeless.,682,Speaker_Error,filler,filler,The architect was commissioned by the large company.,683,Speaker_Error,filler,filler,The boyfriend obtained some concert tickets for his girlfriend.,684,Speaker_Error,filler,filler,The cook baked a cake for Lucy.,685,Speaker_Error,filler,filler,The dental technician accepted the job at the new office even though it didn't pay much.,686,Speaker_Error,filler,filler,The soccer mom was offended by the journalist because he asked rude questions.,687,Speaker_Error,filler,filler,The lab-assistant fetched a test-tube for the scientist.,688,Speaker_Error,filler,filler,The sergeant assigned a locker to the private after the meeting.,689,Speaker_Error,filler,filler,The jewelry-maker was commissioned by the millionaire.,690,Speaker_Error,filler,filler,The apple was placed on the teacher's desk.,691,Speaker_Error,filler,filler,The nurse poured some water for the old man.,692,Speaker_Error,filler,filler,The bartender poured a drink for the customer.,693,Speaker_Error,filler,filler,The moose's head was mounted on the wall.,694,Speaker_Error,filler,filler,The mobile was hanging from the ceiling.,695,Speaker_Error,filler,filler,The coach encouraged the team to score in the last quarter.,696,Speaker_Error,filler,filler,An old woman lives in the woods.,697,Speaker_Error,filler,filler,The submarine captain accepted the mission.,698,Speaker_Error,filler,filler,A ghost appeared above the bed.,699,Speaker_Error,filler,filler,The student spent all night studying and aced the test.,6100,Speaker_Error,filler,filler,The chef cleaned the ladle before he stirred the soup.,6101,Speaker_noError,filler,filler,The helicopter hovered over the water.,6102,Speaker_noError,filler,filler,Some of the woman's cats were scared of dogs but most of them weren't.,6103,Speaker_noError,filler,filler,The first-graders liked their teacher because she used games to teach them how to read.,6104,Speaker_noError,filler,filler,The grandmother made a quilt for her granddaughter.,6105,Speaker_noError,filler,filler,The travel agent reserved a flight for the businessman.,6106,Speaker_noError,filler,filler,A cat jumped onto the table.,6107,Speaker_noError,filler,filler,The apprentice fetched a hammer for the carpenter.,6108,Speaker_noError,filler,filler,The painting hung on the bedroom wall.,6109,Speaker_noError,filler,filler,Some treasure was found in the cave.,6110,Speaker_noError,filler,filler,The name was engraved on the ring.,6111,Speaker_noError,filler,filler,The cheerleader was treated by a doctor who had been watching the game.,6112,Speaker_noError,filler,filler,The baby crawled into the hallway.,6113,Speaker_noError,filler,filler,The train arrived at the station.,6114,Speaker_noError,filler,filler,The seamstress made a dress for her client.,6115,Speaker_noError,filler,filler,The father bought a bicycle for his son.,6116,Speaker_noError,filler,filler,The hiker was rescued by a ranger who had been on patrol.,6117,Speaker_noError,filler,filler,The ballet instructor encouraged her students to practice more.,6118,Speaker_noError,filler,filler,The lawyer was insulted by the judge.,6119,Speaker_noError,filler,filler,A flowering plant is on the window sill.,6120,Speaker_noError,filler,filler,The secretary ordered some office supplies for the boss.,6121,Speaker_noError,filler,filler,The runner trained for months before the marathon.,6122,Speaker_noError,filler,filler,The TA was criticized by the professor.,6123,Speaker_noError,filler,filler,The athlete was treated by a nurse who had been listening to music.,6124,Speaker_noError,filler,filler,The marathoner ran into the stadium.,6125,Speaker_noError,filler,filler,The receptionist saved some cake for her co-worker.,6126,Speaker_noError,filler,filler,The dog trainer taught the puppy to roll over.,6127,Speaker_noError,filler,filler,The astronaut accepted the mission.,6128,Speaker_noError,filler,filler,The girl was pushed by the boy.,6129,Speaker_noError,filler,filler,The defendant's name was written on the check.,6130,Speaker_noError,filler,filler,The bank robber spent thirty minutes cracking the code for the safe.,6

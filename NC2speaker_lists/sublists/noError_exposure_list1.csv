@@ -1,0 +1,21 @@
+Item_Number,Condition,TrialType,SentenceType,Sentence,List
+31,Speaker_noError,exposure,deletion,The dealer shuffled the deck before distributing the cards.,1
+32,Speaker_noError,exposure,deletion,The spy monitored a baroness for several months.,1
+33,Speaker_noError,exposure,deletion,The terrorist assassinated the newsman in cold blood.,1
+34,Speaker_noError,exposure,deletion,The witch was hanged by an executioner promptly at dawn.,1
+35,Speaker_noError,exposure,deletion,An analyst angered the economist after he interrupted a phone conference five times.,1
+36,Speaker_noError,exposure,deletion,The intern begged a programmer to edit the program because it was due the next day.,1
+37,Speaker_noError,exposure,insertion,A legislator lied to the consultant about a new bill.,1
+38,Speaker_noError,exposure,insertion,The insurer paid the victim because his car had been destroyed.,1
+39,Speaker_noError,exposure,insertion,The pianist met with a beautician to prepare for her recital.,1
+40,Speaker_noError,exposure,insertion,The acrobat respected the ballerina because she went to Juilliard.,1
+41,Speaker_noError,exposure,insertion,The archivist found a document dating back to the Nixon administration.,1
+42,Speaker_noError,exposure,insertion,The sculptor brought a shell from the ocean floor.,1
+43,Speaker_noError,exposure,swap,The cameraman was paid to follow a bridesmaid down the aisle with his camera.,1
+44,Speaker_noError,exposure,swap,The defendant misled a juryman when she said that she worked for the government.,1
+45,Speaker_noError,exposure,swap,The robot killed a scientist before escaping from the laboratory.,1
+46,Speaker_noError,exposure,swap,The preacher irritated a parishioner because she was used to shorter sermons.,1
+47,Speaker_noError,exposure,swap,The playwright selected the understudy because of his resemblance to the lead actor.,1
+48,Speaker_noError,exposure,swap,The professor conducted an inquiry into the status of the file.,1
+49,Speaker_noError,exposure,deletion,The spokesman toasted a muffin for the agent after the early morning appointment.,1
+50,Speaker_noError,exposure,swap,The advisee opened a file for the visitor with some trepidation.,1

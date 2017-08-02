@@ -1,0 +1,21 @@
+Item_Number,Condition,TrialType,SentenceType,Sentence,List
+31,Speaker_noError,exposure,deletion,The pirate stole the booty from an officer.,4
+32,Speaker_noError,exposure,deletion,The supplier described a scenario for the class after explaining basic concepts.,4
+33,Speaker_noError,exposure,deletion,The trainer filled a bag with ice for the injured client.,4
+34,Speaker_noError,exposure,deletion,The commissioner wrote a report for the chairman.,4
+35,Speaker_noError,exposure,deletion,The paramedic helped an invalid into the brick building.,4
+36,Speaker_noError,exposure,deletion,The rioter stapled the sign to a bulletin board in the corridor.,4
+37,Speaker_noError,exposure,deletion,The beekeeper selected a honeycomb carefully from a hive of swarming bees.,4
+38,Speaker_noError,exposure,insertion,The surgeon called for a nurse to assist him with the operation.,4
+39,Speaker_noError,exposure,insertion,A socialite was greeted by the butler with a plate of caviar.,4
+40,Speaker_noError,exposure,insertion,The performer lifted the acrobat onto her shoulders gracefully.,4
+41,Speaker_noError,exposure,insertion,The presenter was criticized by a legislator because of his speech impediment.,4
+42,Speaker_noError,exposure,insertion,A bystander was rescued by the fireman in the nick of time.,4
+43,Speaker_noError,exposure,insertion,The trucker ordered a bartender to bring him a beer.,4
+44,Speaker_noError,exposure,insertion,The translator found a car for the ambassador because he could not speak Lebanese.,4
+45,Speaker_noError,exposure,swap,The colonel was knighted by the queen because of his loyalty.,4
+46,Speaker_noError,exposure,swap,The principal commended a parent for her ability to motivate her child.,4
+47,Speaker_noError,exposure,swap,The Vikings raided a village in search of the warrior.,4
+48,Speaker_noError,exposure,swap,The toddler hugged a teddybear because he was scared.,4
+49,Speaker_noError,exposure,swap,The choreographer found a film starring the lead in the musical.,4
+50,Speaker_noError,exposure,swap,The runner filled a bottle with cold tap water.,4
