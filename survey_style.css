@@ -5,7 +5,7 @@ AUTHOR: Rachel Ryskin
 */
 
 /**********General Styling**********/
-/*
+
 .wrapper {
 	height: 80%;
 	width: 100%;
@@ -36,11 +36,11 @@ AUTHOR: Rachel Ryskin
 	font-weight: bold;
 	color: #555555;
 }
-*/
+
 
 /**********Text Styling**********/
 
-/*
+
 .bold_underline {
 	font-weight: bold;
 	text-decoration: underline;
@@ -60,11 +60,9 @@ AUTHOR: Rachel Ryskin
 	text-align: center;
 
 }
-*/
+
 /**********Trial Styling**********/
 
-
-/*Continue Button
 .page input[type="button"] {
     font-size: 16px;
     cursor: pointer;
@@ -78,9 +76,4 @@ AUTHOR: Rachel Ryskin
 }
 
 
-.answer_choices label span{
-	color: green;
 
-}
-
-*/
