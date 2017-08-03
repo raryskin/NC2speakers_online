@@ -11,6 +11,8 @@ The inputs are
 	* Response
 	* List
 	* BlockOrder
+	* A rating
+	* B rating
 
 Writes the onset information to 'onsets.csv'
 The inputs are
@@ -37,9 +39,10 @@ Edited by Rachel Ryskin
 	$end_date =  date('n\/d\/Y');		//month/day/year
 	$end_time = date('H:i:s');			//24hour:minutes:seconds
 	//Name of the onsets file is the same for all subjects.
-	$onsets_file = 'results/onsets.csv';
+	$onsets_file = 'results2/onsets.csv';
 
 	$code = $_POST['subjID'];
+
 	
 	//Open the onsets file
 	$handle = fopen($onsets_file, 'a') or die('Cannot open file: '.$onsets_file);
@@ -84,7 +87,9 @@ Edited by Rachel Ryskin
 	fwrite($handle, 'TrialType' . ',');
 	fwrite($handle, 'SentenceType' . ',');
 	fwrite($handle, 'Sentence' . ',');
-	fwrite($handle, 'Response');
+	fwrite($handle, 'Response' . ',');
+	fwrite($handle, 'A_rating' . ',');
+	fwrite($handle, 'B_rating');
 	fwrite($handle, PHP_EOL);
 	
 	//Write the data to the file
@@ -101,6 +106,8 @@ Edited by Rachel Ryskin
 		$field8 = 'SentenceType_'	. $trial;
 		$field9 = 'Sentence_'		. $trial;
 		$field10 = 'Response_'		. $trial;
+		$field11 = 'A_rating'				;
+		$field12 = 'B_rating'				;
 		
 		//Write results
 		fwrite($handle, $_POST[$field1] . ',');
@@ -112,7 +119,9 @@ Edited by Rachel Ryskin
 		fwrite($handle, $_POST[$field7] . ',');
 		fwrite($handle, $_POST[$field8] . ',');
 		fwrite($handle, $_POST[$field9] . ',');
-		fwrite($handle, $_POST[$field10]);
+		fwrite($handle, $_POST[$field10] . ',');
+		fwrite($handle, $_POST[$field11] . ',');
+		fwrite($handle, $_POST[$field12]);
 		fwrite($handle, PHP_EOL);
 	}
 	

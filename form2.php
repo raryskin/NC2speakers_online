@@ -150,10 +150,6 @@ Rachel Ryskin
 <input type="hidden" name="start_date" value="<?php echo $start_date;?>">
 <input type="hidden" name="start_time" value="<?php echo $start_time;?>">
 
-<div class="wrapper">
-
-
-
 <!-- Survey page -->
 <div class="page firstpage" id="1">
 <div class="cell">
@@ -163,16 +159,12 @@ Rachel Ryskin
 	
 	<p class= bold> 
 	<h4>The following sentences are transcriptions of spoken material. We used 2 different transcription services to obtain these transciptions, <font color="red">Transcriber A</font> and <font color="blue">Transcriber B</font>. Some of these sentences may contain errors. Please RETYPE each sentence and fix any errors. It is fine to copy and paste the sentence and then edit it if you see an error. At the end of the survey we will ask you to rate which transcriber did a better job.</h4>
-
 	</p>
-
 
 <!-- The actual trials -->
 <?php
-
 // Create all the trials
 for ($TrialNum = 0; $TrialNum < $TotalTrials; ++$TrialNum) {
-	
 	$index = $TrialNum+1;
 
 	echo '<div class="cell">';
@@ -205,24 +197,48 @@ for ($TrialNum = 0; $TrialNum < $TotalTrials; ++$TrialNum) {
 		//echo '<br />';
 		//Page number
 		//echo '<div class="page_number">' . $TrialNum . ' / ' . $TotalTrials . '</div>';
-		
+
+		//echo '<div class="answer_choices">';
+		//	echo '<label><input type="radio" name="comp_resp_' . $index  . '" value= "YES" "' .'></span> YES </span></label>';
+		//	echo '<label><input type="radio" name="comp_resp_' . $index  . '" value= "NO" "' .'></span> NO </span></label>';
+		//echo '</div>';
 	echo '</div>';
 	echo '</div>';
 }
 
 ?>
-
 <div class="cell">
-	<!--Please press submit to record your responses.-->
-	<span>Please press submit to record your responses.</span>
+	<span>Please rate the quality of <font color="red">Transcriber A's</font> transcriptions. (1 = Very Poor, 5 = Excellent)</span>
 	<br />
 	<br />
-	<!--Submit-->
-	<input name="submit" type="submit" value="Submit">
-</div>
+	<input type="radio" name="A_rating" value="1"></span> 1 </span>&nbsp&nbsp
+	<input type="radio" name="A_rating" value="2"></span> 2 </span>&nbsp&nbsp
+	<input type="radio" name="A_rating" value="3"></span> 3 </span>&nbsp&nbsp
+	<input type="radio" name="A_rating" value="4"></span> 4 </span>&nbsp&nbsp
+	<input type="radio" name="A_rating" value="5"></span> 5 </span>
+
+	<br />
+	<br />
+	<br />
+	<span>Please rate the quality of <font color="blue">Transcriber B's</font> transcriptions. (1 = Very Poor, 5 = Excellent)</span>
+	<br />
+	<br />
+	<label><input name="B_rating" type="radio" value="1"></span> 1 </span></label>&nbsp&nbsp
+	<label><input name="B_rating" type="radio" value="2"></span> 2 </span></label>&nbsp&nbsp
+	<label><input name="B_rating" type="radio" value="3"></span> 3 </span></label>&nbsp&nbsp
+	<label><input name="B_rating" type="radio" value="4"></span> 4 </span></label>&nbsp&nbsp
+	<label><input name="B_rating" type="radio" value="5"></span> 5 </span></label>
+	<br />
+	<br />
+	<br />
+
+<span>Please press submit to record your responses.</span>
+<br />
+<br />
+<!--Submit-->
+<input name="submit" type="submit" value="Submit">
 </div>
 
-</div> <!-- wrapper -->
 
 </form>
 
