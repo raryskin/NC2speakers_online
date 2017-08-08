@@ -118,6 +118,10 @@ Rachel Ryskin
 		$PresMatrix = array_merge($Error_exposure_block,$noError_exposure_block,$noError_test_block,$Error_test_block);
 	}
 
+// assign which color/name is tied to Error vs. No Error
+	$color_assignment = mt_rand(1,2);
+	// 1 = Speaker_Error is A
+	// 2 = Speaker_Error is B
 	
 	//echo '**PRES MATRIX**: '. sizeof($PresMatrix);
 	//var_dump($PresMatrix) ;
@@ -180,13 +184,28 @@ for ($TrialNum = 0; $TrialNum < $TotalTrials; ++$TrialNum) {
 		echo '<input type="hidden" name="List_' . $index . '" value="' . $PresMatrix[$TrialNum]['List']	. '">';
 		echo '<input type="hidden" name="BlockOrder" value="' . $block_order . '">';
 		
+		if ($color_assignment == 1){
+			if (strcmp($PresMatrix[$TrialNum]['Condition'], "Speaker_Error") == 0) {
+				$Name = "Transcriber A";
+		    	$color = "red";
+		    } 
+		    else {
+			    $Name = "Transcriber B";
+			    $color = "blue";
+			} 
+		} elseif ($color_assignment == 2){
 		if (strcmp($PresMatrix[$TrialNum]['Condition'], "Speaker_Error") == 0) {
-		    $Name = "Transcriber A";
-		    $color = "red";
-		} else {
-		    $Name = "Transcriber B";
-		    $color = "blue";
+				$Name = "Transcriber B";
+		    	$color = "blue";
+		    } 
+		    else {
+			    $Name = "Transcriber A";
+			    $color = "red";
+			} 
 		}
+		echo '<input type="hidden" name="TranscriberName_'	. $index . '" value="' . $Name	. '">';
+
+
 		//The sentence and the comprehension question which get displayed
 		echo '<input type="hidden" name="Sentence_'		 	. $index . '" value="' . $PresMatrix[$TrialNum]['Sentence']	. '">';
 		echo '<div class="sentence"><font color="'.$color.'"> ' .$Name.": ". $PresMatrix[$TrialNum]['Sentence'] . '</font></div>';

@@ -11,6 +11,7 @@ The inputs are
 	* Response
 	* List
 	* BlockOrder
+	* TranscriberName
 	* A rating
 	* B rating
 
@@ -86,6 +87,7 @@ Edited by Rachel Ryskin
 	fwrite($handle, 'Condition' . ',');
 	fwrite($handle, 'TrialType' . ',');
 	fwrite($handle, 'SentenceType' . ',');
+	fwrite($handle, 'TranscriberName' . ',');
 	fwrite($handle, 'Sentence' . ',');
 	fwrite($handle, 'Response' . ',');
 	fwrite($handle, 'A_rating' . ',');
@@ -104,10 +106,11 @@ Edited by Rachel Ryskin
 		$field6 = 'Condition_'		. $trial;
 		$field7 = 'TrialType_'		. $trial;
 		$field8 = 'SentenceType_'	. $trial;
-		$field9 = 'Sentence_'		. $trial;
-		$field10 = 'Response_'		. $trial;
-		$field11 = 'A_rating'				;
-		$field12 = 'B_rating'				;
+		$field9 = 'TranscriberName_'. $trial;
+		$field10 = 'Sentence_'		. $trial;
+		$field11 = 'Response_'		. $trial;
+		$field12 = 'A_rating'				;
+		$field13 = 'B_rating'				;
 		
 		//Write results
 		fwrite($handle, $_POST[$field1] . ',');
@@ -121,7 +124,8 @@ Edited by Rachel Ryskin
 		fwrite($handle, $_POST[$field9] . ',');
 		fwrite($handle, $_POST[$field10] . ',');
 		fwrite($handle, $_POST[$field11] . ',');
-		fwrite($handle, $_POST[$field12]);
+		fwrite($handle, $_POST[$field12] . ',');
+		fwrite($handle, $_POST[$field13]);
 		fwrite($handle, PHP_EOL);
 	}
 	
