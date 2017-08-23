@@ -1,0 +1,16 @@
+Item_Number,Condition,TrialType,SentenceType,Sentence,List
+1,Speaker_noError,test,deletion,The quarterback passed the ball the receiver.,6
+2,Speaker_noError,test,deletion,The patient's condition deteriorated the new medicine.,6
+3,Speaker_noError,test,deletion,The actor handed the script the director.,6
+4,Speaker_noError,test,deletion,The millionaire profited the tax reduction.,6
+5,Speaker_noError,test,deletion,The corrupt politicians profited the bribes.,6
+6,Speaker_noError,test,insertion,The earthquake shattered from the house.,6
+7,Speaker_noError,test,insertion,The bad lighting deteriorated from the woman's eyesight.,6
+8,Speaker_noError,test,insertion,The extra time benefited from the child with a learning disability.,6
+9,Speaker_noError,test,insertion,The hot stove melted from the plastic handle.,6
+10,Speaker_noError,test,insertion,The daughter passed the mother to the bowl.,6
+11,Speaker_noError,test,swap,The watch bought the plumber.,6
+12,Speaker_noError,test,swap,The ball kicked the girl.,6
+13,Speaker_noError,test,swap,The train boarded the granddaughter.,6
+14,Speaker_noError,test,swap,The stamp licked the secretary.,6
+15,Speaker_noError,test,swap,The table set the mother.,6

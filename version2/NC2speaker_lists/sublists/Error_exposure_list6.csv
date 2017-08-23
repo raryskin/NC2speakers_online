@@ -1,0 +1,21 @@
+Item_Number,Condition,TrialType,SentenceType,Sentence,List
+51,Speaker_Error,exposure,deletion,The dealer shuffled deck before distributing the cards.,6
+52,Speaker_Error,exposure,deletion,The spy monitored a baroness several months.,6
+53,Speaker_Error,exposure,deletion,The terrorist assassinated the newsman cold blood.,6
+54,Speaker_Error,exposure,deletion,The witch was hanged an executioner promptly at dawn.,6
+55,Speaker_Error,exposure,deletion,An analyst angered the economist after he interrupted phone conference five times.,6
+56,Speaker_Error,exposure,deletion,The intern begged a programmer to edit the program because it due the next day.,6
+57,Speaker_Error,exposure,insertion,A legislator lied to the consultant about for a new bill.,6
+58,Speaker_Error,exposure,insertion,The insurer paid the victim because while his car had been destroyed.,6
+59,Speaker_Error,exposure,insertion,The pianist met with a beautician to about prepare for her recital.,6
+60,Speaker_Error,exposure,insertion,The acrobat respected after the ballerina because she went to Juilliard.,6
+61,Speaker_Error,exposure,insertion,The archivist found a document dating back to was the Nixon administration.,6
+62,Speaker_Error,exposure,insertion,The sculptor brought a shell from with the ocean floor.,6
+63,Speaker_Error,exposure,swap,The cameraman was paid to follow a bridesmaid down the camera with his aisle.,6
+64,Speaker_Error,exposure,swap,The defendant misled a juryman when she worked that she said for the government.,6
+65,Speaker_Error,exposure,swap,The robot killed a scientist from escaping before the laboratory.,6
+66,Speaker_Error,exposure,swap,The preacher irritated a parishioner because she used was to shorter sermons.,6
+67,Speaker_Error,exposure,swap,The playwright selected the resemblance because of his understudy to the lead actor.,6
+68,Speaker_Error,exposure,swap,The status conducted an inquiry into the professor of the file.,6
+69,Speaker_Error,exposure,deletion,The spokesman toasted a muffin for the agent the early morning appointment.,6
+70,Speaker_Error,exposure,swap,The advisee opened a file for the visitor some with trepidation.,6

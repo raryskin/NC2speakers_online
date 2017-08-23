@@ -1,0 +1,16 @@
+Item_Number,Condition,TrialType,SentenceType,Sentence,List
+16,Speaker_Error,test,deletion,The uncle sold the truck the father.,2
+17,Speaker_Error,test,deletion,The scuba instructor rented the equipment the tourist.,2
+18,Speaker_Error,test,deletion,The player benefited the intense practice.,2
+19,Speaker_Error,test,deletion,The sculpture shattered the fall.,2
+20,Speaker_Error,test,deletion,The janitor lent the mop the teacher.,2
+21,Speaker_Error,test,insertion,The construction noise worsened from the man's hearing.,2
+22,Speaker_Error,test,insertion,The host tossed the contestant to the microphone.,2
+23,Speaker_Error,test,insertion,The long drought deteriorated from the soil.,2
+24,Speaker_Error,test,insertion,The judge gave the athlete to the prize.,2
+25,Speaker_Error,test,insertion,The chemotherapy shrank from the tumor.,2
+26,Speaker_Error,test,swap,The message read the assistant.,2
+27,Speaker_Error,test,swap,The bat swung the player.,2
+28,Speaker_Error,test,swap,The oven cleaned the grandmother.,2
+29,Speaker_Error,test,swap,The saw sharpened the father.,2
+30,Speaker_Error,test,swap,The blanket folded the daughter.,2

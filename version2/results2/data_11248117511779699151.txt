@@ -1,0 +1,131 @@
+subjID\tTrialNum\tList\tBlockOrder\tItemNum\tCondition\tTrialType\tSentenceType\tSpeakerName\tSentence\tResponse\tA_rating\tB_rating
+11248117511779699151\t1\t2\t4\t101\tSpeaker_Error\tfiller\tfiller\tSpeaker B\tThe helicopter hovered over the water.\tyyy\t1\t1
+11248117511779699151\t2\t2\t4\t119\tSpeaker_Error\tfiller\tfiller\tSpeaker B\tA flowering plant is on the window sill.\t\t1\t1
+11248117511779699151\t3\t2\t4\t59\tSpeaker_Error\texposure\tinsertion\tSpeaker B\tThe pianist met with a beautician to about prepare for her recital.\t\t1\t1
+11248117511779699151\t4\t2\t4\t114\tSpeaker_Error\tfiller\tfiller\tSpeaker B\tThe seamstress made a dress for her client.\t\t1\t1
+11248117511779699151\t5\t2\t4\t65\tSpeaker_Error\texposure\tswap\tSpeaker B\tThe robot killed a scientist from escaping before the laboratory.\t\t1\t1
+11248117511779699151\t6\t2\t4\t104\tSpeaker_Error\tfiller\tfiller\tSpeaker B\tThe grandmother made a quilt for her granddaughter.\t\t1\t1
+11248117511779699151\t7\t2\t4\t112\tSpeaker_Error\tfiller\tfiller\tSpeaker B\tThe baby crawled into the hallway.\t\t1\t1
+11248117511779699151\t8\t2\t4\t113\tSpeaker_Error\tfiller\tfiller\tSpeaker B\tThe train arrived at the station.\t\t1\t1
+11248117511779699151\t9\t2\t4\t54\tSpeaker_Error\texposure\tdeletion\tSpeaker B\tThe witch was hanged an executioner promptly at dawn.\t\t1\t1
+11248117511779699151\t10\t2\t4\t64\tSpeaker_Error\texposure\tswap\tSpeaker B\tThe defendant misled a juryman when she worked that she said for the government.\t\t1\t1
+11248117511779699151\t11\t2\t4\t70\tSpeaker_Error\texposure\tswap\tSpeaker B\tThe advisee opened a file for the visitor some with trepidation.\t\t1\t1
+11248117511779699151\t12\t2\t4\t52\tSpeaker_Error\texposure\tdeletion\tSpeaker B\tThe spy monitored a baroness several months.\t\t1\t1
+11248117511779699151\t13\t2\t4\t118\tSpeaker_Error\tfiller\tfiller\tSpeaker B\tThe lawyer was insulted by the judge.\t\t1\t1
+11248117511779699151\t14\t2\t4\t66\tSpeaker_Error\texposure\tswap\tSpeaker B\tThe preacher irritated a parishioner because she used was to shorter sermons.\t\t1\t1
+11248117511779699151\t15\t2\t4\t62\tSpeaker_Error\texposure\tinsertion\tSpeaker B\tThe sculptor brought a shell from with the ocean floor.\t\t1\t1
+11248117511779699151\t16\t2\t4\t106\tSpeaker_Error\tfiller\tfiller\tSpeaker B\tA cat jumped onto the table.\t\t1\t1
+11248117511779699151\t17\t2\t4\t115\tSpeaker_Error\tfiller\tfiller\tSpeaker B\tThe father bought a bicycle for his son.\t\t1\t1
+11248117511779699151\t18\t2\t4\t56\tSpeaker_Error\texposure\tdeletion\tSpeaker B\tThe intern begged a programmer to edit the program because it due the next day.\t\t1\t1
+11248117511779699151\t19\t2\t4\t55\tSpeaker_Error\texposure\tdeletion\tSpeaker B\tAn analyst angered the economist after he interrupted phone conference five times.\t\t1\t1
+11248117511779699151\t20\t2\t4\t53\tSpeaker_Error\texposure\tdeletion\tSpeaker B\tThe terrorist assassinated the newsman cold blood.\t\t1\t1
+11248117511779699151\t21\t2\t4\t61\tSpeaker_Error\texposure\tinsertion\tSpeaker B\tThe archivist found a document dating back to was the Nixon administration.\t\t1\t1
+11248117511779699151\t22\t2\t4\t57\tSpeaker_Error\texposure\tinsertion\tSpeaker B\tA legislator lied to the consultant about for a new bill.\t\t1\t1
+11248117511779699151\t23\t2\t4\t109\tSpeaker_Error\tfiller\tfiller\tSpeaker B\tSome treasure was found in the cave.\t\t1\t1
+11248117511779699151\t24\t2\t4\t123\tSpeaker_Error\tfiller\tfiller\tSpeaker B\tThe athlete was treated by a nurse who had been listening to music.\t\t1\t1
+11248117511779699151\t25\t2\t4\t122\tSpeaker_Error\tfiller\tfiller\tSpeaker B\tThe TA was criticized by the professor.\t\t1\t1
+11248117511779699151\t26\t2\t4\t60\tSpeaker_Error\texposure\tinsertion\tSpeaker B\tThe acrobat respected after the ballerina because she went to Juilliard.\t\t1\t1
+11248117511779699151\t27\t2\t4\t51\tSpeaker_Error\texposure\tdeletion\tSpeaker B\tThe dealer shuffled deck before distributing the cards.\t\t1\t1
+11248117511779699151\t28\t2\t4\t130\tSpeaker_Error\tfiller\tfiller\tSpeaker B\tThe bank robber spent thirty minutes cracking the code for the safe.\t\t1\t1
+11248117511779699151\t29\t2\t4\t69\tSpeaker_Error\texposure\tdeletion\tSpeaker B\tThe spokesman toasted a muffin for the agent the early morning appointment.\t\t1\t1
+11248117511779699151\t30\t2\t4\t58\tSpeaker_Error\texposure\tinsertion\tSpeaker B\tThe insurer paid the victim because while his car had been destroyed.\t\t1\t1
+11248117511779699151\t31\t2\t4\t68\tSpeaker_Error\texposure\tswap\tSpeaker B\tThe status conducted an inquiry into the professor of the file.\t\t1\t1
+11248117511779699151\t32\t2\t4\t67\tSpeaker_Error\texposure\tswap\tSpeaker B\tThe playwright selected the resemblance because of his understudy to the lead actor.\t\t1\t1
+11248117511779699151\t33\t2\t4\t63\tSpeaker_Error\texposure\tswap\tSpeaker B\tThe cameraman was paid to follow a bridesmaid down the camera with his aisle.\t\t1\t1
+11248117511779699151\t34\t2\t4\t117\tSpeaker_Error\tfiller\tfiller\tSpeaker B\tThe ballet instructor encouraged her students to practice more.\t\t1\t1
+11248117511779699151\t35\t2\t4\t121\tSpeaker_Error\tfiller\tfiller\tSpeaker B\tThe runner trained for months before the marathon.\t\t1\t1
+11248117511779699151\t36\t2\t4\t41\tSpeaker_noError\texposure\tinsertion\tSpeaker A\tThe presenter was criticized by a legislator because of his speech impediment.\t\t1\t1
+11248117511779699151\t37\t2\t4\t34\tSpeaker_noError\texposure\tdeletion\tSpeaker A\tThe commissioner wrote a report for the chairman.\t\t1\t1
+11248117511779699151\t38\t2\t4\t81\tSpeaker_noError\tfiller\tfiller\tSpeaker A\tThe church built a shelter for the homeless.\t\t1\t1
+11248117511779699151\t39\t2\t4\t44\tSpeaker_noError\texposure\tinsertion\tSpeaker A\tThe translator found a car for the ambassador because he could not speak Lebanese.\t\t1\t1
+11248117511779699151\t40\t2\t4\t46\tSpeaker_noError\texposure\tswap\tSpeaker A\tThe principal commended a parent for her ability to motivate her child.\t\t1\t1
+11248117511779699151\t41\t2\t4\t42\tSpeaker_noError\texposure\tinsertion\tSpeaker A\tA bystander was rescued by the fireman in the nick of time.\t\t1\t1
+11248117511779699151\t42\t2\t4\t48\tSpeaker_noError\texposure\tswap\tSpeaker A\tThe toddler hugged a teddybear because he was scared.\t\t1\t1
+11248117511779699151\t43\t2\t4\t97\tSpeaker_noError\tfiller\tfiller\tSpeaker A\tThe submarine captain accepted the mission.\t\t1\t1
+11248117511779699151\t44\t2\t4\t76\tSpeaker_noError\tfiller\tfiller\tSpeaker A\tThe small plant grew into a huge tree.\t\t1\t1
+11248117511779699151\t45\t2\t4\t99\tSpeaker_noError\tfiller\tfiller\tSpeaker A\tThe student spent all night studying and aced the test.\t\t1\t1
+11248117511779699151\t46\t2\t4\t39\tSpeaker_noError\texposure\tinsertion\tSpeaker A\tA socialite was greeted by the butler with a plate of caviar.\t\t1\t1
+11248117511779699151\t47\t2\t4\t37\tSpeaker_noError\texposure\tdeletion\tSpeaker A\tThe beekeeper selected a honeycomb carefully from a hive of swarming bees.\t\t1\t1
+11248117511779699151\t48\t2\t4\t72\tSpeaker_noError\tfiller\tfiller\tSpeaker A\tThe waitress fixed a sandwich for the customer.\t\t1\t1
+11248117511779699151\t49\t2\t4\t89\tSpeaker_noError\tfiller\tfiller\tSpeaker A\tThe jewelry-maker was commissioned by the millionaire.\t\t1\t1
+11248117511779699151\t50\t2\t4\t77\tSpeaker_noError\tfiller\tfiller\tSpeaker A\tThe man was nudged by the woman.\t\t1\t1
+11248117511779699151\t51\t2\t4\t71\tSpeaker_noError\tfiller\tfiller\tSpeaker A\tThe woman saved a seat for her husband.\t\t1\t1
+11248117511779699151\t52\t2\t4\t80\tSpeaker_noError\tfiller\tfiller\tSpeaker A\tThe charity built a house for the hurricane victim.\t\t1\t1
+11248117511779699151\t53\t2\t4\t32\tSpeaker_noError\texposure\tdeletion\tSpeaker A\tThe supplier described a scenario for the class after explaining basic concepts.\t\t1\t1
+11248117511779699151\t54\t2\t4\t82\tSpeaker_noError\tfiller\tfiller\tSpeaker A\tThe architect was commissioned by the large company.\t\t1\t1
+11248117511779699151\t55\t2\t4\t45\tSpeaker_noError\texposure\tswap\tSpeaker A\tThe colonel was knighted by the queen because of his loyalty.\t\t1\t1
+11248117511779699151\t56\t2\t4\t43\tSpeaker_noError\texposure\tinsertion\tSpeaker A\tThe trucker ordered a bartender to bring him a beer.\t\t1\t1
+11248117511779699151\t57\t2\t4\t100\tSpeaker_noError\tfiller\tfiller\tSpeaker A\tThe chef cleaned the ladle before he stirred the soup.\t\t1\t1
+11248117511779699151\t58\t2\t4\t50\tSpeaker_noError\texposure\tswap\tSpeaker A\tThe runner filled a bottle with cold tap water.\t\t1\t1
+11248117511779699151\t59\t2\t4\t36\tSpeaker_noError\texposure\tdeletion\tSpeaker A\tThe rioter stapled the sign to a bulletin board in the corridor.\t\t1\t1
+11248117511779699151\t60\t2\t4\t95\tSpeaker_noError\tfiller\tfiller\tSpeaker A\tThe coach encouraged the team to score in the last quarter.\t\t1\t1
+11248117511779699151\t61\t2\t4\t49\tSpeaker_noError\texposure\tswap\tSpeaker A\tThe choreographer found a film starring the lead in the musical.\t\t1\t1
+11248117511779699151\t62\t2\t4\t40\tSpeaker_noError\texposure\tinsertion\tSpeaker A\tThe performer lifted the acrobat onto her shoulders gracefully.\t\t1\t1
+11248117511779699151\t63\t2\t4\t35\tSpeaker_noError\texposure\tdeletion\tSpeaker A\tThe paramedic helped an invalid into the brick building.\t\t1\t1
+11248117511779699151\t64\t2\t4\t33\tSpeaker_noError\texposure\tdeletion\tSpeaker A\tThe trainer filled a bag with ice for the injured client.\t\t1\t1
+11248117511779699151\t65\t2\t4\t75\tSpeaker_noError\tfiller\tfiller\tSpeaker A\tThe journalist was ignored by the politician at the press conference.\t\t1\t1
+11248117511779699151\t66\t2\t4\t85\tSpeaker_noError\tfiller\tfiller\tSpeaker A\tThe dental technician accepted the job at the new office even though it didn't pay much.\t\t1\t1
+11248117511779699151\t67\t2\t4\t38\tSpeaker_noError\texposure\tinsertion\tSpeaker A\tThe surgeon called for a nurse to assist him with the operation.\t\t1\t1
+11248117511779699151\t68\t2\t4\t47\tSpeaker_noError\texposure\tswap\tSpeaker A\tThe Vikings raided a village in search of the warrior.\t\t1\t1
+11248117511779699151\t69\t2\t4\t78\tSpeaker_noError\tfiller\tfiller\tSpeaker A\tThe grocery store didn't have any more whole wheat bread in stock.\t\t1\t1
+11248117511779699151\t70\t2\t4\t31\tSpeaker_noError\texposure\tdeletion\tSpeaker A\tThe pirate stole the booty from an officer.\t\t1\t1
+11248117511779699151\t71\t2\t4\t13\tSpeaker_noError\ttest\tswap\tSpeaker A\tThe train boarded the granddaughter.\t\t1\t1
+11248117511779699151\t72\t2\t4\t91\tSpeaker_noError\tfiller\tfiller\tSpeaker A\tThe nurse poured some water for the old man.\t\t1\t1
+11248117511779699151\t73\t2\t4\t8\tSpeaker_noError\ttest\tinsertion\tSpeaker A\tThe extra time benefited from the child with a learning disability.\t\t1\t1
+11248117511779699151\t74\t2\t4\t79\tSpeaker_noError\tfiller\tfiller\tSpeaker A\tA magnificent diamond sparkled on the prince's finger.\t\t1\t1
+11248117511779699151\t75\t2\t4\t94\tSpeaker_noError\tfiller\tfiller\tSpeaker A\tThe mobile was hanging from the ceiling.\t\t1\t1
+11248117511779699151\t76\t2\t4\t12\tSpeaker_noError\ttest\tswap\tSpeaker A\tThe ball kicked the girl.\t\t1\t1
+11248117511779699151\t77\t2\t4\t87\tSpeaker_noError\tfiller\tfiller\tSpeaker A\tThe lab-assistant fetched a test-tube for the scientist.\t\t1\t1
+11248117511779699151\t78\t2\t4\t84\tSpeaker_noError\tfiller\tfiller\tSpeaker A\tThe cook baked a cake for Lucy.\t\t1\t1
+11248117511779699151\t79\t2\t4\t2\tSpeaker_noError\ttest\tdeletion\tSpeaker A\tThe patient's condition deteriorated the new medicine.\t\t1\t1
+11248117511779699151\t80\t2\t4\t88\tSpeaker_noError\tfiller\tfiller\tSpeaker A\tThe sergeant assigned a locker to the private after the meeting.\t\t1\t1
+11248117511779699151\t81\t2\t4\t14\tSpeaker_noError\ttest\tswap\tSpeaker A\tThe stamp licked the secretary.\t\t1\t1
+11248117511779699151\t82\t2\t4\t3\tSpeaker_noError\ttest\tdeletion\tSpeaker A\tThe actor handed the script the director.\t\t1\t1
+11248117511779699151\t83\t2\t4\t4\tSpeaker_noError\ttest\tdeletion\tSpeaker A\tThe millionaire profited the tax reduction.\t\t1\t1
+11248117511779699151\t84\t2\t4\t6\tSpeaker_noError\ttest\tinsertion\tSpeaker A\tThe earthquake shattered from the house.\t\t1\t1
+11248117511779699151\t85\t2\t4\t98\tSpeaker_noError\tfiller\tfiller\tSpeaker A\tA ghost appeared above the bed.\t\t1\t1
+11248117511779699151\t86\t2\t4\t5\tSpeaker_noError\ttest\tdeletion\tSpeaker A\tThe corrupt politicians profited the bribes.\t\t1\t1
+11248117511779699151\t87\t2\t4\t93\tSpeaker_noError\tfiller\tfiller\tSpeaker A\tThe moose's head was mounted on the wall.\t\t1\t1
+11248117511779699151\t88\t2\t4\t11\tSpeaker_noError\ttest\tswap\tSpeaker A\tThe watch bought the plumber.\t\t1\t1
+11248117511779699151\t89\t2\t4\t1\tSpeaker_noError\ttest\tdeletion\tSpeaker A\tThe quarterback passed the ball the receiver.\t\t1\t1
+11248117511779699151\t90\t2\t4\t83\tSpeaker_noError\tfiller\tfiller\tSpeaker A\tThe boyfriend obtained some concert tickets for his girlfriend.\t\t1\t1
+11248117511779699151\t91\t2\t4\t90\tSpeaker_noError\tfiller\tfiller\tSpeaker A\tThe apple was placed on the teacher's desk.\t\t1\t1
+11248117511779699151\t92\t2\t4\t73\tSpeaker_noError\tfiller\tfiller\tSpeaker A\tThe man ordered some champagne for his girlfriend.\t\t1\t1
+11248117511779699151\t93\t2\t4\t86\tSpeaker_noError\tfiller\tfiller\tSpeaker A\tThe soccer mom was offended by the journalist because he asked rude questions.\t\t1\t1
+11248117511779699151\t94\t2\t4\t96\tSpeaker_noError\tfiller\tfiller\tSpeaker A\tAn old woman lives in the woods.\t\t1\t1
+11248117511779699151\t95\t2\t4\t7\tSpeaker_noError\ttest\tinsertion\tSpeaker A\tThe bad lighting deteriorated from the woman's eyesight.\t\t1\t1
+11248117511779699151\t96\t2\t4\t15\tSpeaker_noError\ttest\tswap\tSpeaker A\tThe table set the mother.\t\t1\t1
+11248117511779699151\t97\t2\t4\t92\tSpeaker_noError\tfiller\tfiller\tSpeaker A\tThe bartender poured a drink for the customer.\t\t1\t1
+11248117511779699151\t98\t2\t4\t74\tSpeaker_noError\tfiller\tfiller\tSpeaker A\tThe woman was held by the man.\t\t1\t1
+11248117511779699151\t99\t2\t4\t10\tSpeaker_noError\ttest\tinsertion\tSpeaker A\tThe daughter passed the mother to the bowl.\t\t1\t1
+11248117511779699151\t100\t2\t4\t9\tSpeaker_noError\ttest\tinsertion\tSpeaker A\tThe hot stove melted from the plastic handle.\t\t1\t1
+11248117511779699151\t101\t2\t4\t22\tSpeaker_Error\ttest\tinsertion\tSpeaker B\tThe host tossed the contestant to the microphone.\t\t1\t1
+11248117511779699151\t102\t2\t4\t103\tSpeaker_Error\tfiller\tfiller\tSpeaker B\tThe first-graders liked their teacher because she used games to teach them how to read.\t\t1\t1
+11248117511779699151\t103\t2\t4\t129\tSpeaker_Error\tfiller\tfiller\tSpeaker B\tThe defendant's name was written on the check.\t\t1\t1
+11248117511779699151\t104\t2\t4\t110\tSpeaker_Error\tfiller\tfiller\tSpeaker B\tThe name was engraved on the ring.\t\t1\t1
+11248117511779699151\t105\t2\t4\t17\tSpeaker_Error\ttest\tdeletion\tSpeaker B\tThe scuba instructor rented the equipment the tourist.\t\t1\t1
+11248117511779699151\t106\t2\t4\t16\tSpeaker_Error\ttest\tdeletion\tSpeaker B\tThe uncle sold the truck the father.\t\t1\t1
+11248117511779699151\t107\t2\t4\t127\tSpeaker_Error\tfiller\tfiller\tSpeaker B\tThe astronaut accepted the mission.\t\t1\t1
+11248117511779699151\t108\t2\t4\t125\tSpeaker_Error\tfiller\tfiller\tSpeaker B\tThe receptionist saved some cake for her co-worker.\t\t1\t1
+11248117511779699151\t109\t2\t4\t126\tSpeaker_Error\tfiller\tfiller\tSpeaker B\tThe dog trainer taught the puppy to roll over.\t\t1\t1
+11248117511779699151\t110\t2\t4\t18\tSpeaker_Error\ttest\tdeletion\tSpeaker B\tThe player benefited the intense practice.\t\t1\t1
+11248117511779699151\t111\t2\t4\t111\tSpeaker_Error\tfiller\tfiller\tSpeaker B\tThe cheerleader was treated by a doctor who had been watching the game.\tpp\t1\t1
+11248117511779699151\t112\t2\t4\t124\tSpeaker_Error\tfiller\tfiller\tSpeaker B\tThe marathoner ran into the stadium.\t\t1\t1
+11248117511779699151\t113\t2\t4\t23\tSpeaker_Error\ttest\tinsertion\tSpeaker B\tThe long drought deteriorated from the soil.\t\t1\t1
+11248117511779699151\t114\t2\t4\t24\tSpeaker_Error\ttest\tinsertion\tSpeaker B\tThe judge gave the athlete to the prize.\t\t1\t1
+11248117511779699151\t115\t2\t4\t120\tSpeaker_Error\tfiller\tfiller\tSpeaker B\tThe secretary ordered some office supplies for the boss.\t\t1\t1
+11248117511779699151\t116\t2\t4\t105\tSpeaker_Error\tfiller\tfiller\tSpeaker B\tThe travel agent reserved a flight for the businessman.\t\t1\t1
+11248117511779699151\t117\t2\t4\t19\tSpeaker_Error\ttest\tdeletion\tSpeaker B\tThe sculpture shattered the fall.\t\t1\t1
+11248117511779699151\t118\t2\t4\t116\tSpeaker_Error\tfiller\tfiller\tSpeaker B\tThe hiker was rescued by a ranger who had been on patrol.\t\t1\t1
+11248117511779699151\t119\t2\t4\t108\tSpeaker_Error\tfiller\tfiller\tSpeaker B\tThe painting hung on the bedroom wall.\t\t1\t1
+11248117511779699151\t120\t2\t4\t20\tSpeaker_Error\ttest\tdeletion\tSpeaker B\tThe janitor lent the mop the teacher.\t\t1\t1
+11248117511779699151\t121\t2\t4\t30\tSpeaker_Error\ttest\tswap\tSpeaker B\tThe blanket folded the daughter.\t\t1\t1
+11248117511779699151\t122\t2\t4\t102\tSpeaker_Error\tfiller\tfiller\tSpeaker B\tSome of the woman's cats were scared of dogs but most of them weren't.\t\t1\t1
+11248117511779699151\t123\t2\t4\t27\tSpeaker_Error\ttest\tswap\tSpeaker B\tThe bat swung the player.\t\t1\t1
+11248117511779699151\t124\t2\t4\t26\tSpeaker_Error\ttest\tswap\tSpeaker B\tThe message read the assistant.\t\t1\t1
+11248117511779699151\t125\t2\t4\t28\tSpeaker_Error\ttest\tswap\tSpeaker B\tThe oven cleaned the grandmother.\t\t1\t1
+11248117511779699151\t126\t2\t4\t21\tSpeaker_Error\ttest\tinsertion\tSpeaker B\tThe construction noise worsened from the man's hearing.\t\t1\t1
+11248117511779699151\t127\t2\t4\t25\tSpeaker_Error\ttest\tinsertion\tSpeaker B\tThe chemotherapy shrank from the tumor.\t\t1\t1
+11248117511779699151\t128\t2\t4\t29\tSpeaker_Error\ttest\tswap\tSpeaker B\tThe saw sharpened the father.\t\t1\t1
+11248117511779699151\t129\t2\t4\t107\tSpeaker_Error\tfiller\tfiller\tSpeaker B\tThe apprentice fetched a hammer for the carpenter.\t\t1\t1
+11248117511779699151\t130\t2\t4\t128\tSpeaker_Error\tfiller\tfiller\tSpeaker B\tThe girl was pushed by the boy.\t\t1\t1

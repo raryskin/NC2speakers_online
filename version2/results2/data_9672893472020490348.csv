@@ -1,0 +1,131 @@
+subjID,TrialNum,List,BlockOrder,ItemNum,Condition,TrialType,SentenceType,Sentence,Response,A_rating,B_rating
+9672893472020490348,1,3,2,42,Speaker_noError,exposure,insertion,The sculptor brought a shell from the ocean floor.,,4,3
+9672893472020490348,2,3,2,82,Speaker_noError,filler,filler,The architect was commissioned by the large company.,,4,3
+9672893472020490348,3,3,2,48,Speaker_noError,exposure,swap,The professor conducted an inquiry into the status of the file.,,4,3
+9672893472020490348,4,3,2,76,Speaker_noError,filler,filler,The small plant grew into a huge tree.,,4,3
+9672893472020490348,5,3,2,49,Speaker_noError,exposure,deletion,The spokesman toasted a muffin for the agent after the early morning appointment.,,4,3
+9672893472020490348,6,3,2,43,Speaker_noError,exposure,swap,The cameraman was paid to follow a bridesmaid down the aisle with his camera.,,4,3
+9672893472020490348,7,3,2,47,Speaker_noError,exposure,swap,The playwright selected the understudy because of his resemblance to the lead actor.,,4,3
+9672893472020490348,8,3,2,50,Speaker_noError,exposure,swap,The advisee opened a file for the visitor with some trepidation.,,4,3
+9672893472020490348,9,3,2,95,Speaker_noError,filler,filler,The coach encouraged the team to score in the last quarter.,,4,3
+9672893472020490348,10,3,2,44,Speaker_noError,exposure,swap,The defendant misled a juryman when she said that she worked for the government.,,4,3
+9672893472020490348,11,3,2,37,Speaker_noError,exposure,insertion,A legislator lied to the consultant about a new bill.,,4,3
+9672893472020490348,12,3,2,38,Speaker_noError,exposure,insertion,The insurer paid the victim because his car had been destroyed.,,4,3
+9672893472020490348,13,3,2,46,Speaker_noError,exposure,swap,The preacher irritated a parishioner because she was used to shorter sermons.,,4,3
+9672893472020490348,14,3,2,83,Speaker_noError,filler,filler,The boyfriend obtained some concert tickets for his girlfriend.,,4,3
+9672893472020490348,15,3,2,40,Speaker_noError,exposure,insertion,The acrobat respected the ballerina because she went to Juilliard.,,4,3
+9672893472020490348,16,3,2,41,Speaker_noError,exposure,insertion,The archivist found a document dating back to the Nixon administration.,,4,3
+9672893472020490348,17,3,2,99,Speaker_noError,filler,filler,The student spent all night studying and aced the test.,,4,3
+9672893472020490348,18,3,2,92,Speaker_noError,filler,filler,The bartender poured a drink for the customer.,,4,3
+9672893472020490348,19,3,2,75,Speaker_noError,filler,filler,The journalist was ignored by the politician at the press conference.,,4,3
+9672893472020490348,20,3,2,77,Speaker_noError,filler,filler,The man was nudged by the woman.,,4,3
+9672893472020490348,21,3,2,91,Speaker_noError,filler,filler,The nurse poured some water for the old man.,,4,3
+9672893472020490348,22,3,2,36,Speaker_noError,exposure,deletion,The intern begged a programmer to edit the program because it was due the next day.,,4,3
+9672893472020490348,23,3,2,33,Speaker_noError,exposure,deletion,The terrorist assassinated the newsman in cold blood.,,4,3
+9672893472020490348,24,3,2,100,Speaker_noError,filler,filler,The chef cleaned the ladle before he stirred the soup.,,4,3
+9672893472020490348,25,3,2,35,Speaker_noError,exposure,deletion,An analyst angered the economist after he interrupted a phone conference five times.,,4,3
+9672893472020490348,26,3,2,84,Speaker_noError,filler,filler,The cook baked a cake for Lucy.,,4,3
+9672893472020490348,27,3,2,32,Speaker_noError,exposure,deletion,The spy monitored a baroness for several months.,,4,3
+9672893472020490348,28,3,2,73,Speaker_noError,filler,filler,The man ordered some champagne for his girlfriend.,,4,3
+9672893472020490348,29,3,2,88,Speaker_noError,filler,filler,The sergeant assigned a locker to the private after the meeting.,,4,3
+9672893472020490348,30,3,2,31,Speaker_noError,exposure,deletion,The dealer shuffled the deck before distributing the cards.,,4,3
+9672893472020490348,31,3,2,98,Speaker_noError,filler,filler,A ghost appeared above the bed.,,4,3
+9672893472020490348,32,3,2,39,Speaker_noError,exposure,insertion,The pianist met with a beautician to prepare for her recital.,,4,3
+9672893472020490348,33,3,2,71,Speaker_noError,filler,filler,The woman saved a seat for her husband.,,4,3
+9672893472020490348,34,3,2,45,Speaker_noError,exposure,swap,The robot killed a scientist before escaping from the laboratory.,,4,3
+9672893472020490348,35,3,2,34,Speaker_noError,exposure,deletion,The witch was hanged by an executioner promptly at dawn.,,4,3
+9672893472020490348,36,3,2,53,Speaker_Error,exposure,deletion,The trainer filled a bag with ice the injured client.,,4,3
+9672893472020490348,37,3,2,66,Speaker_Error,exposure,swap,The principal commended a parent for her motivate to ability her child.,,4,3
+9672893472020490348,38,3,2,51,Speaker_Error,exposure,deletion,The pirate stole the booty an officer.,,4,3
+9672893472020490348,39,3,2,126,Speaker_Error,filler,filler,The dog trainer taught the puppy to roll over.,,4,3
+9672893472020490348,40,3,2,101,Speaker_Error,filler,filler,The helicopter hovered over the water.,,4,3
+9672893472020490348,41,3,2,57,Speaker_Error,exposure,deletion,The beekeeper selected a honeycomb carefully a hive of swarming bees.,,4,3
+9672893472020490348,42,3,2,69,Speaker_Error,exposure,swap,The choreographer found a film starring the musical in the lead.,,4,3
+9672893472020490348,43,3,2,52,Speaker_Error,exposure,deletion,The supplier described a scenario the class after explaining basic concepts.,,4,3
+9672893472020490348,44,3,2,119,Speaker_Error,filler,filler,A flowering plant is on the window sill.,,4,3
+9672893472020490348,45,3,2,55,Speaker_Error,exposure,deletion,The paramedic helped an invalid the brick building.,,4,3
+9672893472020490348,46,3,2,121,Speaker_Error,filler,filler,The runner trained for months before the marathon.,,4,3
+9672893472020490348,47,3,2,114,Speaker_Error,filler,filler,The seamstress made a dress for her client.,,4,3
+9672893472020490348,48,3,2,109,Speaker_Error,filler,filler,Some treasure was found in the cave.,,4,3
+9672893472020490348,49,3,2,67,Speaker_Error,exposure,swap,The Vikings raided a search in village of the warrior.,,4,3
+9672893472020490348,50,3,2,62,Speaker_Error,exposure,insertion,A bystander was rescued by the fireman to in the nick of time.,,4,3
+9672893472020490348,51,3,2,64,Speaker_Error,exposure,insertion,The translator found a car for the ambassador because he or could not speak Lebanese.,,4,3
+9672893472020490348,52,3,2,122,Speaker_Error,filler,filler,The TA was criticized by the professor.,,4,3
+9672893472020490348,53,3,2,65,Speaker_Error,exposure,swap,The colonel was knighted by the queen loyalty of his because.,,4,3
+9672893472020490348,54,3,2,127,Speaker_Error,filler,filler,The astronaut accepted the mission.,,4,3
+9672893472020490348,55,3,2,54,Speaker_Error,exposure,deletion,The commissioner wrote a report the chairman.,,4,3
+9672893472020490348,56,3,2,115,Speaker_Error,filler,filler,The father bought a bicycle for his son.,,4,3
+9672893472020490348,57,3,2,56,Speaker_Error,exposure,deletion,The rioter stapled the sign a bulletin board in the corridor.,,4,3
+9672893472020490348,58,3,2,124,Speaker_Error,filler,filler,The marathoner ran into the stadium.,,4,3
+9672893472020490348,59,3,2,60,Speaker_Error,exposure,insertion,The performer lifted the acrobat onto a her shoulders gracefully.,,4,3
+9672893472020490348,60,3,2,58,Speaker_Error,exposure,insertion,The surgeon called for a nurse to from assist him with the operation.,,4,3
+9672893472020490348,61,3,2,107,Speaker_Error,filler,filler,The apprentice fetched a hammer for the carpenter.,,4,3
+9672893472020490348,62,3,2,70,Speaker_Error,exposure,swap,The runner filled a bottle with cold water tap.,,4,3
+9672893472020490348,63,3,2,63,Speaker_Error,exposure,insertion,The trucker ordered a bartender to bring him onto a beer.,,4,3
+9672893472020490348,64,3,2,118,Speaker_Error,filler,filler,The lawyer was insulted by the judge.,,4,3
+9672893472020490348,65,3,2,61,Speaker_Error,exposure,insertion,The presenter was criticized by a legislator for because of his speech impediment.,,4,3
+9672893472020490348,66,3,2,128,Speaker_Error,filler,filler,The girl was pushed by the boy.,,4,3
+9672893472020490348,67,3,2,111,Speaker_Error,filler,filler,The cheerleader was treated by a doctor who had been watching the game.,,4,3
+9672893472020490348,68,3,2,123,Speaker_Error,filler,filler,The athlete was treated by a nurse who had been listening to music.,,4,3
+9672893472020490348,69,3,2,59,Speaker_Error,exposure,insertion,A socialite was and greeted by the butler with a plate of caviar.,,4,3
+9672893472020490348,70,3,2,68,Speaker_Error,exposure,swap,The toddler hugged a teddybear scared because he was.,,4,3
+9672893472020490348,71,3,2,125,Speaker_Error,filler,filler,The receptionist saved some cake for her co-worker.,,4,3
+9672893472020490348,72,3,2,29,Speaker_Error,test,swap,The stamp licked the secretary.,,4,3
+9672893472020490348,73,3,2,22,Speaker_Error,test,insertion,The bad lighting deteriorated from the woman's eyesight.,,4,3
+9672893472020490348,74,3,2,104,Speaker_Error,filler,filler,The grandmother made a quilt for her granddaughter.,,4,3
+9672893472020490348,75,3,2,28,Speaker_Error,test,swap,The train boarded the granddaughter.,,4,3
+9672893472020490348,76,3,2,117,Speaker_Error,filler,filler,The ballet instructor encouraged her students to practice more.,,4,3
+9672893472020490348,77,3,2,24,Speaker_Error,test,insertion,The hot stove melted from the plastic handle.,,4,3
+9672893472020490348,78,3,2,112,Speaker_Error,filler,filler,The baby crawled into the hallway.,,4,3
+9672893472020490348,79,3,2,20,Speaker_Error,test,deletion,The corrupt politicians profited the bribes.,,4,3
+9672893472020490348,80,3,2,129,Speaker_Error,filler,filler,The defendant's name was written on the check.,,4,3
+9672893472020490348,81,3,2,19,Speaker_Error,test,deletion,The millionaire profited the tax reduction.,,4,3
+9672893472020490348,82,3,2,21,Speaker_Error,test,insertion,The earthquake shattered from the house.,,4,3
+9672893472020490348,83,3,2,110,Speaker_Error,filler,filler,The name was engraved on the ring.,,4,3
+9672893472020490348,84,3,2,116,Speaker_Error,filler,filler,The hiker was rescued by a ranger who had been on patrol.,,4,3
+9672893472020490348,85,3,2,26,Speaker_Error,test,swap,The watch bought the plumber.,,4,3
+9672893472020490348,86,3,2,25,Speaker_Error,test,insertion,The daughter passed the mother to the bowl.,,4,3
+9672893472020490348,87,3,2,27,Speaker_Error,test,swap,The ball kicked the girl.,,4,3
+9672893472020490348,88,3,2,130,Speaker_Error,filler,filler,The bank robber spent thirty minutes cracking the code for the safe.,,4,3
+9672893472020490348,89,3,2,23,Speaker_Error,test,insertion,The extra time benefited from the child with a learning disability.,,4,3
+9672893472020490348,90,3,2,108,Speaker_Error,filler,filler,The painting hung on the bedroom wall.,,4,3
+9672893472020490348,91,3,2,16,Speaker_Error,test,deletion,The quarterback passed the ball the receiver.,,4,3
+9672893472020490348,92,3,2,105,Speaker_Error,filler,filler,The travel agent reserved a flight for the businessman.,,4,3
+9672893472020490348,93,3,2,102,Speaker_Error,filler,filler,Some of the woman's cats were scared of dogs but most of them weren't.,,4,3
+9672893472020490348,94,3,2,18,Speaker_Error,test,deletion,The actor handed the script the director.,,4,3
+9672893472020490348,95,3,2,30,Speaker_Error,test,swap,The table set the mother.,,4,3
+9672893472020490348,96,3,2,106,Speaker_Error,filler,filler,A cat jumped onto the table.,,4,3
+9672893472020490348,97,3,2,17,Speaker_Error,test,deletion,The patient's condition deteriorated the new medicine.,,4,3
+9672893472020490348,98,3,2,120,Speaker_Error,filler,filler,The secretary ordered some office supplies for the boss.,,4,3
+9672893472020490348,99,3,2,103,Speaker_Error,filler,filler,The first-graders liked their teacher because she used games to teach them how to read.,,4,3
+9672893472020490348,100,3,2,113,Speaker_Error,filler,filler,The train arrived at the station.,,4,3
+9672893472020490348,101,3,2,86,Speaker_noError,filler,filler,The soccer mom was offended by the journalist because he asked rude questions.,,4,3
+9672893472020490348,102,3,2,72,Speaker_noError,filler,filler,The waitress fixed a sandwich for the customer.,,4,3
+9672893472020490348,103,3,2,87,Speaker_noError,filler,filler,The lab-assistant fetched a test-tube for the scientist.,,4,3
+9672893472020490348,104,3,2,13,Speaker_noError,test,swap,The oven cleaned the grandmother.,,4,3
+9672893472020490348,105,3,2,6,Speaker_noError,test,insertion,The construction noise worsened from the man's hearing.,,4,3
+9672893472020490348,106,3,2,3,Speaker_noError,test,deletion,The player benefited the intense practice.,,4,3
+9672893472020490348,107,3,2,15,Speaker_noError,test,swap,The blanket folded the daughter.,,4,3
+9672893472020490348,108,3,2,80,Speaker_noError,filler,filler,The charity built a house for the hurricane victim.,,4,3
+9672893472020490348,109,3,2,2,Speaker_noError,test,deletion,The scuba instructor rented the equipment the tourist.,,4,3
+9672893472020490348,110,3,2,90,Speaker_noError,filler,filler,The apple was placed on the teacher's desk.,,4,3
+9672893472020490348,111,3,2,96,Speaker_noError,filler,filler,An old woman lives in the woods.,,4,3
+9672893472020490348,112,3,2,12,Speaker_noError,test,swap,The bat swung the player.,,4,3
+9672893472020490348,113,3,2,79,Speaker_noError,filler,filler,A magnificent diamond sparkled on the prince's finger.,,4,3
+9672893472020490348,114,3,2,8,Speaker_noError,test,insertion,The long drought deteriorated from the soil.,,4,3
+9672893472020490348,115,3,2,74,Speaker_noError,filler,filler,The woman was held by the man.,,4,3
+9672893472020490348,116,3,2,9,Speaker_noError,test,insertion,The judge gave the athlete to the prize.,,4,3
+9672893472020490348,117,3,2,14,Speaker_noError,test,swap,The saw sharpened the father.,,4,3
+9672893472020490348,118,3,2,1,Speaker_noError,test,deletion,The uncle sold the truck the father.,,4,3
+9672893472020490348,119,3,2,7,Speaker_noError,test,insertion,The host tossed the contestant to the microphone.,,4,3
+9672893472020490348,120,3,2,4,Speaker_noError,test,deletion,The sculpture shattered the fall.,,4,3
+9672893472020490348,121,3,2,5,Speaker_noError,test,deletion,The janitor lent the mop the teacher.,,4,3
+9672893472020490348,122,3,2,78,Speaker_noError,filler,filler,The grocery store didn't have any more whole wheat bread in stock.,,4,3
+9672893472020490348,123,3,2,85,Speaker_noError,filler,filler,The dental technician accepted the job at the new office even though it didn't pay much.,,4,3
+9672893472020490348,124,3,2,10,Speaker_noError,test,insertion,The chemotherapy shrank from the tumor.,,4,3
+9672893472020490348,125,3,2,81,Speaker_noError,filler,filler,The church built a shelter for the homeless.,,4,3
+9672893472020490348,126,3,2,89,Speaker_noError,filler,filler,The jewelry-maker was commissioned by the millionaire.,,4,3
+9672893472020490348,127,3,2,93,Speaker_noError,filler,filler,The moose's head was mounted on the wall.,,4,3
+9672893472020490348,128,3,2,94,Speaker_noError,filler,filler,The mobile was hanging from the ceiling.,,4,3
+9672893472020490348,129,3,2,97,Speaker_noError,filler,filler,The submarine captain accepted the mission.,,4,3
+9672893472020490348,130,3,2,11,Speaker_noError,test,swap,The message read the assistant.,,4,3

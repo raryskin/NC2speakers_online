@@ -1,0 +1,131 @@
+subjID,TrialNum,List,BlockOrder,ItemNum,Condition,TrialType,SentenceType,SpeakerName,Sentence,Response,A_rating,B_rating
+257554072444083384,1,1,4,104,Speaker_Error,filler,filler,Speaker A,The grandmother made a quilt for her granddaughter.,,4,4
+257554072444083384,2,1,4,63,Speaker_Error,exposure,insertion,Speaker A,The trucker ordered a bartender to bring him onto a beer.,,4,4
+257554072444083384,3,1,4,56,Speaker_Error,exposure,deletion,Speaker A,The rioter stapled the sign a bulletin board in the corridor.,,4,4
+257554072444083384,4,1,4,64,Speaker_Error,exposure,insertion,Speaker A,The translator found a car for the ambassador because he or could not speak Lebanese.,,4,4
+257554072444083384,5,1,4,65,Speaker_Error,exposure,swap,Speaker A,The colonel was knighted by the queen loyalty of his because.,,4,4
+257554072444083384,6,1,4,66,Speaker_Error,exposure,swap,Speaker A,The principal commended a parent for her motivate to ability her child.,,4,4
+257554072444083384,7,1,4,53,Speaker_Error,exposure,deletion,Speaker A,The trainer filled a bag with ice the injured client.,,4,4
+257554072444083384,8,1,4,51,Speaker_Error,exposure,deletion,Speaker A,The pirate stole the booty an officer.,,4,4
+257554072444083384,9,1,4,68,Speaker_Error,exposure,swap,Speaker A,The toddler hugged a teddybear scared because he was.,,4,4
+257554072444083384,10,1,4,54,Speaker_Error,exposure,deletion,Speaker A,The commissioner wrote a report the chairman.,,4,4
+257554072444083384,11,1,4,128,Speaker_Error,filler,filler,Speaker A,The girl was pushed by the boy.,,4,4
+257554072444083384,12,1,4,106,Speaker_Error,filler,filler,Speaker A,A cat jumped onto the table.,,4,4
+257554072444083384,13,1,4,60,Speaker_Error,exposure,insertion,Speaker A,The performer lifted the acrobat onto a her shoulders gracefully.,,4,4
+257554072444083384,14,1,4,52,Speaker_Error,exposure,deletion,Speaker A,The supplier described a scenario the class after explaining basic concepts.,,4,4
+257554072444083384,15,1,4,122,Speaker_Error,filler,filler,Speaker A,The TA was criticized by the professor.,,4,4
+257554072444083384,16,1,4,112,Speaker_Error,filler,filler,Speaker A,The baby crawled into the hallway.,,4,4
+257554072444083384,17,1,4,57,Speaker_Error,exposure,deletion,Speaker A,The beekeeper selected a honeycomb carefully a hive of swarming bees.,,4,4
+257554072444083384,18,1,4,118,Speaker_Error,filler,filler,Speaker A,The lawyer was insulted by the judge.,,4,4
+257554072444083384,19,1,4,125,Speaker_Error,filler,filler,Speaker A,The receptionist saved some cake for her co-worker.,,4,4
+257554072444083384,20,1,4,62,Speaker_Error,exposure,insertion,Speaker A,A bystander was rescued by the fireman to in the nick of time.,,4,4
+257554072444083384,21,1,4,55,Speaker_Error,exposure,deletion,Speaker A,The paramedic helped an invalid the brick building.,,4,4
+257554072444083384,22,1,4,123,Speaker_Error,filler,filler,Speaker A,The athlete was treated by a nurse who had been listening to music.,,4,4
+257554072444083384,23,1,4,129,Speaker_Error,filler,filler,Speaker A,The defendant's name was written on the check.,,4,4
+257554072444083384,24,1,4,61,Speaker_Error,exposure,insertion,Speaker A,The presenter was criticized by a legislator for because of his speech impediment.,,4,4
+257554072444083384,25,1,4,69,Speaker_Error,exposure,swap,Speaker A,The choreographer found a film starring the musical in the lead.,,4,4
+257554072444083384,26,1,4,108,Speaker_Error,filler,filler,Speaker A,The painting hung on the bedroom wall.,,4,4
+257554072444083384,27,1,4,101,Speaker_Error,filler,filler,Speaker A,The helicopter hovered over the water.,,4,4
+257554072444083384,28,1,4,115,Speaker_Error,filler,filler,Speaker A,The father bought a bicycle for his son.,,4,4
+257554072444083384,29,1,4,70,Speaker_Error,exposure,swap,Speaker A,The runner filled a bottle with cold water tap.,,4,4
+257554072444083384,30,1,4,119,Speaker_Error,filler,filler,Speaker A,A flowering plant is on the window sill.,,4,4
+257554072444083384,31,1,4,105,Speaker_Error,filler,filler,Speaker A,The travel agent reserved a flight for the businessman.,,4,4
+257554072444083384,32,1,4,67,Speaker_Error,exposure,swap,Speaker A,The Vikings raided a search in village of the warrior.,,4,4
+257554072444083384,33,1,4,59,Speaker_Error,exposure,insertion,Speaker A,A socialite was and greeted by the butler with a plate of caviar.,,4,4
+257554072444083384,34,1,4,103,Speaker_Error,filler,filler,Speaker A,The first-graders liked their teacher because she used games to teach them how to read.,,4,4
+257554072444083384,35,1,4,58,Speaker_Error,exposure,insertion,Speaker A,The surgeon called for a nurse to from assist him with the operation.,,4,4
+257554072444083384,36,1,4,97,Speaker_noError,filler,filler,Speaker B,The submarine captain accepted the mission.,,4,4
+257554072444083384,37,1,4,38,Speaker_noError,exposure,insertion,Speaker B,The insurer paid the victim because his car had been destroyed.,,4,4
+257554072444083384,38,1,4,49,Speaker_noError,exposure,deletion,Speaker B,The spokesman toasted a muffin for the agent after the early morning appointment.,,4,4
+257554072444083384,39,1,4,90,Speaker_noError,filler,filler,Speaker B,The apple was placed on the teacher's desk.,,4,4
+257554072444083384,40,1,4,44,Speaker_noError,exposure,swap,Speaker B,The defendant misled a juryman when she said that she worked for the government.,,4,4
+257554072444083384,41,1,4,91,Speaker_noError,filler,filler,Speaker B,The nurse poured some water for the old man.,,4,4
+257554072444083384,42,1,4,84,Speaker_noError,filler,filler,Speaker B,The cook baked a cake for Lucy.,,4,4
+257554072444083384,43,1,4,39,Speaker_noError,exposure,insertion,Speaker B,The pianist met with a beautician to prepare for her recital.,,4,4
+257554072444083384,44,1,4,100,Speaker_noError,filler,filler,Speaker B,The chef cleaned the ladle before he stirred the soup.,,4,4
+257554072444083384,45,1,4,43,Speaker_noError,exposure,swap,Speaker B,The cameraman was paid to follow a bridesmaid down the aisle with his camera.,,4,4
+257554072444083384,46,1,4,78,Speaker_noError,filler,filler,Speaker B,The grocery store didn't have any more whole wheat bread in stock.,,4,4
+257554072444083384,47,1,4,37,Speaker_noError,exposure,insertion,Speaker B,A legislator lied to the consultant about a new bill.,,4,4
+257554072444083384,48,1,4,46,Speaker_noError,exposure,swap,Speaker B,The preacher irritated a parishioner because she was used to shorter sermons.,,4,4
+257554072444083384,49,1,4,48,Speaker_noError,exposure,swap,Speaker B,The professor conducted an inquiry into the status of the file.,,4,4
+257554072444083384,50,1,4,41,Speaker_noError,exposure,insertion,Speaker B,The archivist found a document dating back to the Nixon administration.,,4,4
+257554072444083384,51,1,4,99,Speaker_noError,filler,filler,Speaker B,The student spent all night studying and aced the test.,,4,4
+257554072444083384,52,1,4,35,Speaker_noError,exposure,deletion,Speaker B,An analyst angered the economist after he interrupted a phone conference five times.,,4,4
+257554072444083384,53,1,4,71,Speaker_noError,filler,filler,Speaker B,The woman saved a seat for her husband.,,4,4
+257554072444083384,54,1,4,45,Speaker_noError,exposure,swap,Speaker B,The robot killed a scientist before escaping from the laboratory.,,4,4
+257554072444083384,55,1,4,40,Speaker_noError,exposure,insertion,Speaker B,The acrobat respected the ballerina because she went to Juilliard.,,4,4
+257554072444083384,56,1,4,31,Speaker_noError,exposure,deletion,Speaker B,The dealer shuffled the deck before distributing the cards.,,4,4
+257554072444083384,57,1,4,34,Speaker_noError,exposure,deletion,Speaker B,The witch was hanged by an executioner promptly at dawn.,,4,4
+257554072444083384,58,1,4,80,Speaker_noError,filler,filler,Speaker B,The charity built a house for the hurricane victim.,,4,4
+257554072444083384,59,1,4,72,Speaker_noError,filler,filler,Speaker B,The waitress fixed a sandwich for the customer.,,4,4
+257554072444083384,60,1,4,50,Speaker_noError,exposure,swap,Speaker B,The advisee opened a file for the visitor with some trepidation.,,4,4
+257554072444083384,61,1,4,36,Speaker_noError,exposure,deletion,Speaker B,The intern begged a programmer to edit the program because it was due the next day.,,4,4
+257554072444083384,62,1,4,87,Speaker_noError,filler,filler,Speaker B,The lab-assistant fetched a test-tube for the scientist.,,4,4
+257554072444083384,63,1,4,81,Speaker_noError,filler,filler,Speaker B,The church built a shelter for the homeless.,,4,4
+257554072444083384,64,1,4,76,Speaker_noError,filler,filler,Speaker B,The small plant grew into a huge tree.,,4,4
+257554072444083384,65,1,4,77,Speaker_noError,filler,filler,Speaker B,The man was nudged by the woman.,,4,4
+257554072444083384,66,1,4,47,Speaker_noError,exposure,swap,Speaker B,The playwright selected the understudy because of his resemblance to the lead actor.,,4,4
+257554072444083384,67,1,4,42,Speaker_noError,exposure,insertion,Speaker B,The sculptor brought a shell from the ocean floor.,,4,4
+257554072444083384,68,1,4,32,Speaker_noError,exposure,deletion,Speaker B,The spy monitored a baroness for several months.,,4,4
+257554072444083384,69,1,4,33,Speaker_noError,exposure,deletion,Speaker B,The terrorist assassinated the newsman in cold blood.,,4,4
+257554072444083384,70,1,4,88,Speaker_noError,filler,filler,Speaker B,The sergeant assigned a locker to the private after the meeting.,,4,4
+257554072444083384,71,1,4,96,Speaker_noError,filler,filler,Speaker B,An old woman lives in the woods.,,4,4
+257554072444083384,72,1,4,6,Speaker_noError,test,insertion,Speaker B,The earthquake shattered from the house.,,4,4
+257554072444083384,73,1,4,4,Speaker_noError,test,deletion,Speaker B,The millionaire profited the tax reduction.,,4,4
+257554072444083384,74,1,4,98,Speaker_noError,filler,filler,Speaker B,A ghost appeared above the bed.,,4,4
+257554072444083384,75,1,4,12,Speaker_noError,test,swap,Speaker B,The ball kicked the girl.,,4,4
+257554072444083384,76,1,4,11,Speaker_noError,test,swap,Speaker B,The watch bought the plumber.,,4,4
+257554072444083384,77,1,4,79,Speaker_noError,filler,filler,Speaker B,A magnificent diamond sparkled on the prince's finger.,,4,4
+257554072444083384,78,1,4,15,Speaker_noError,test,swap,Speaker B,The table set the mother.,,4,4
+257554072444083384,79,1,4,1,Speaker_noError,test,deletion,Speaker B,The quarterback passed the ball the receiver.,,4,4
+257554072444083384,80,1,4,86,Speaker_noError,filler,filler,Speaker B,The soccer mom was offended by the journalist because he asked rude questions.,,4,4
+257554072444083384,81,1,4,74,Speaker_noError,filler,filler,Speaker B,The woman was held by the man.,,4,4
+257554072444083384,82,1,4,7,Speaker_noError,test,insertion,Speaker B,The bad lighting deteriorated from the woman's eyesight.,,4,4
+257554072444083384,83,1,4,75,Speaker_noError,filler,filler,Speaker B,The journalist was ignored by the politician at the press conference.,,4,4
+257554072444083384,84,1,4,93,Speaker_noError,filler,filler,Speaker B,The moose's head was mounted on the wall.,,4,4
+257554072444083384,85,1,4,85,Speaker_noError,filler,filler,Speaker B,The dental technician accepted the job at the new office even though it didn't pay much.,,4,4
+257554072444083384,86,1,4,13,Speaker_noError,test,swap,Speaker B,The train boarded the granddaughter.,,4,4
+257554072444083384,87,1,4,95,Speaker_noError,filler,filler,Speaker B,The coach encouraged the team to score in the last quarter.,,4,4
+257554072444083384,88,1,4,3,Speaker_noError,test,deletion,Speaker B,The actor handed the script the director.,,4,4
+257554072444083384,89,1,4,8,Speaker_noError,test,insertion,Speaker B,The extra time benefited from the child with a learning disability.,,4,4
+257554072444083384,90,1,4,94,Speaker_noError,filler,filler,Speaker B,The mobile was hanging from the ceiling.,,4,4
+257554072444083384,91,1,4,83,Speaker_noError,filler,filler,Speaker B,The boyfriend obtained some concert tickets for his girlfriend.,,4,4
+257554072444083384,92,1,4,82,Speaker_noError,filler,filler,Speaker B,The architect was commissioned by the large company.,,4,4
+257554072444083384,93,1,4,73,Speaker_noError,filler,filler,Speaker B,The man ordered some champagne for his girlfriend.,,4,4
+257554072444083384,94,1,4,5,Speaker_noError,test,deletion,Speaker B,The corrupt politicians profited the bribes.,,4,4
+257554072444083384,95,1,4,89,Speaker_noError,filler,filler,Speaker B,The jewelry-maker was commissioned by the millionaire.,,4,4
+257554072444083384,96,1,4,92,Speaker_noError,filler,filler,Speaker B,The bartender poured a drink for the customer.,,4,4
+257554072444083384,97,1,4,14,Speaker_noError,test,swap,Speaker B,The stamp licked the secretary.,,4,4
+257554072444083384,98,1,4,9,Speaker_noError,test,insertion,Speaker B,The hot stove melted from the plastic handle.,,4,4
+257554072444083384,99,1,4,2,Speaker_noError,test,deletion,Speaker B,The patient's condition deteriorated the new medicine.,,4,4
+257554072444083384,100,1,4,10,Speaker_noError,test,insertion,Speaker B,The daughter passed the mother to the bowl.,,4,4
+257554072444083384,101,1,4,102,Speaker_Error,filler,filler,Speaker A,Some of the woman's cats were scared of dogs but most of them weren't.,,4,4
+257554072444083384,102,1,4,124,Speaker_Error,filler,filler,Speaker A,The marathoner ran into the stadium.,,4,4
+257554072444083384,103,1,4,26,Speaker_Error,test,swap,Speaker A,The message read the assistant.,,4,4
+257554072444083384,104,1,4,120,Speaker_Error,filler,filler,Speaker A,The secretary ordered some office supplies for the boss.,,4,4
+257554072444083384,105,1,4,19,Speaker_Error,test,deletion,Speaker A,The sculpture shattered the fall.,,4,4
+257554072444083384,106,1,4,18,Speaker_Error,test,deletion,Speaker A,The player benefited the intense practice.,,4,4
+257554072444083384,107,1,4,23,Speaker_Error,test,insertion,Speaker A,The long drought deteriorated from the soil.,,4,4
+257554072444083384,108,1,4,121,Speaker_Error,filler,filler,Speaker A,The runner trained for months before the marathon.,,4,4
+257554072444083384,109,1,4,126,Speaker_Error,filler,filler,Speaker A,The dog trainer taught the puppy to roll over.,,4,4
+257554072444083384,110,1,4,17,Speaker_Error,test,deletion,Speaker A,The scuba instructor rented the equipment the tourist.,,4,4
+257554072444083384,111,1,4,20,Speaker_Error,test,deletion,Speaker A,The janitor lent the mop the teacher.,,4,4
+257554072444083384,112,1,4,16,Speaker_Error,test,deletion,Speaker A,The uncle sold the truck the father.,,4,4
+257554072444083384,113,1,4,116,Speaker_Error,filler,filler,Speaker A,The hiker was rescued by a ranger who had been on patrol.,,4,4
+257554072444083384,114,1,4,30,Speaker_Error,test,swap,Speaker A,The blanket folded the daughter.,,4,4
+257554072444083384,115,1,4,114,Speaker_Error,filler,filler,Speaker A,The seamstress made a dress for her client.,,4,4
+257554072444083384,116,1,4,111,Speaker_Error,filler,filler,Speaker A,The cheerleader was treated by a doctor who had been watching the game.,,4,4
+257554072444083384,117,1,4,28,Speaker_Error,test,swap,Speaker A,The oven cleaned the grandmother.,,4,4
+257554072444083384,118,1,4,130,Speaker_Error,filler,filler,Speaker A,The bank robber spent thirty minutes cracking the code for the safe.,,4,4
+257554072444083384,119,1,4,25,Speaker_Error,test,insertion,Speaker A,The chemotherapy shrank from the tumor.,,4,4
+257554072444083384,120,1,4,117,Speaker_Error,filler,filler,Speaker A,The ballet instructor encouraged her students to practice more.,,4,4
+257554072444083384,121,1,4,127,Speaker_Error,filler,filler,Speaker A,The astronaut accepted the mission.,,4,4
+257554072444083384,122,1,4,113,Speaker_Error,filler,filler,Speaker A,The train arrived at the station.,,4,4
+257554072444083384,123,1,4,24,Speaker_Error,test,insertion,Speaker A,The judge gave the athlete to the prize.,,4,4
+257554072444083384,124,1,4,109,Speaker_Error,filler,filler,Speaker A,Some treasure was found in the cave.,,4,4
+257554072444083384,125,1,4,107,Speaker_Error,filler,filler,Speaker A,The apprentice fetched a hammer for the carpenter.,,4,4
+257554072444083384,126,1,4,21,Speaker_Error,test,insertion,Speaker A,The construction noise worsened from the man's hearing.,,4,4
+257554072444083384,127,1,4,29,Speaker_Error,test,swap,Speaker A,The saw sharpened the father.,,4,4
+257554072444083384,128,1,4,22,Speaker_Error,test,insertion,Speaker A,The host tossed the contestant to the microphone.,,4,4
+257554072444083384,129,1,4,27,Speaker_Error,test,swap,Speaker A,The bat swung the player.,,4,4
+257554072444083384,130,1,4,110,Speaker_Error,filler,filler,Speaker A,The name was engraved on the ring.,2222,4,4
